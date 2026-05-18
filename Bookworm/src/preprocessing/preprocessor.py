@@ -87,5 +87,5 @@ def preprocess():
 
     print(f"Cleaned data saved to {OUTPUT_PATH}")
 
-if __name__ == "__main__":
-    preprocess()
+# if __name__ == "__main__":
+#     preprocess()
