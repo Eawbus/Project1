@@ -3,8 +3,8 @@ import numpy as np
 import os
 from sentence_transformers import SentenceTransformer
 
-INPUT_PATH = "data/processed/cleaned_GoodReadsDataset.csv"
-OUTPUT_PATH = "data/embeddings/embeddings.npy"
+INPUT_PATH = "Bookworm/data/processed/cleaned_GoodReadsDataset.csv"
+OUTPUT_PATH = "Bookworm/data/embeddings/embeddings.npy"
 
 
 def build_text(row):
@@ -28,7 +28,7 @@ def generate_embeddings():
     texts = df.apply(build_text, axis=1).tolist()
 
     print("Loading model...")
-    model = SentenceTransformer("all-MiniLM-L6-v2")
+    model = SentenceTransformer("models/all-MiniLM-L6-v2")
 
     print("Generating embeddings...")
     embeddings = model.encode(
@@ -49,4 +49,5 @@ def generate_embeddings():
 
 
 if __name__ == "__main__":
+    print(os.getcwd())
     generate_embeddings()

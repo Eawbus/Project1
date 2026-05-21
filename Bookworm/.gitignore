@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Transformer models
+models/
+
+# FAISS index
+data/index/
+
+# Embeddings
+data/embeddings/

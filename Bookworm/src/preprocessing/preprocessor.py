@@ -3,8 +3,8 @@ import numpy as np
 import re
 import os
 
-INPUT_PATH = "data/raw/GoodReadsDataset.csv"
-OUTPUT_PATH = "data/processed/cleaned_GoodReadsDataset.csv"
+INPUT_PATH = "Bookworm/data/raw/GoodReadsDataset.csv"
+OUTPUT_PATH = "Bookworm/data/processed/cleaned_GoodReadsDataset.csv"
 
 def clean_text(text):
     text = str(text)
@@ -34,8 +34,7 @@ def preprocess():
     "genres": "genres",
     "rating": "rating",
     "numRatings": "num_ratings",
-    "firstPublishDate": "year"
-}
+    "firstPublishDate": "year"}
 
     available_cols = {k: v for k, v in columns_map.items() if k in df.columns}
     df = df[list(available_cols.keys())]
