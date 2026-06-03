@@ -22,7 +22,6 @@ def clean_genres(g):
     return ", ".join(genres)
 
 def preprocess():
-    print("Loading dataset...")
     df = pd.read_csv(INPUT_PATH)
 
     print(f"Original shape: {df.shape}")
@@ -43,37 +42,35 @@ def preprocess():
     print(f"After column selection: {df.shape}")
 
     df = df.dropna(subset=["title", "description"])
-    print(f"After dropping missing title/description: {df.shape}")
+    print(f"After dropping missing semantics: {df.shape}")
 
     df = df[df["description"].str.len() > 50]
     print(f"After removing short descriptions: {df.shape}")
 
-    print("Cleaning text...")
+    print("Cleaning the text")
     df["title"] = df["title"].apply(clean_text)
     df["description"] = df["description"].apply(clean_text)
 
     if "author" in df.columns:
+        print("Cleaning authors")
         df["author"] = df["author"].apply(clean_text)
-
     if "genres" in df.columns:
-        print("Cleaning genres...")
+        print("Cleaning genres")
         df["genres"] = df["genres"].apply(clean_genres)
     else:
         df["genres"] = ""
 
-    print("Cleaning numeric fields...")
+    print("Cleaning numeric fields")
     if "rating" in df.columns:
         df["rating"] = pd.to_numeric(df["rating"], errors="coerce")
-
     if "num_ratings" in df.columns:
         df["num_ratings"] = pd.to_numeric(df["num_ratings"], errors="coerce")
-
     if "year" in df.columns:
         df["year"] = pd.to_numeric(df["year"], errors="coerce")
 
     df = df.dropna(subset=["rating", "num_ratings"])
 
-    print("Removing duplicates...")
+    print("Removing duplicates")
     df = df.drop_duplicates(subset=["title", "author"])
 
     df = df.reset_index(drop=True)
@@ -84,7 +81,7 @@ def preprocess():
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     df.to_csv(OUTPUT_PATH, index=False)
 
-    print(f"Cleaned data saved to {OUTPUT_PATH}")
+    print(f"Cleaned data saved, path: {OUTPUT_PATH}")
 
 # if __name__ == "__main__":
 #     preprocess()

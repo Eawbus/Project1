@@ -1,9 +1,8 @@
 import pandas as pd
 
-from Bookworm.search.semantic import SemanticRetriever
-from Bookworm.search.filtering import MetadataFilter
-from Bookworm.search.ranking import Ranker
-
+from semantic_search import SemanticRetriever
+from filter_search import MetadataFilter
+from ranking import Ranker
 
 class SearchEngine:
 
@@ -34,14 +33,12 @@ class SearchEngine:
     ):
 
         if semantic:
-
             results = self.semantic.retrieve(
                 query,
                 k=100
             )
 
         else:
-
             results = self.df.copy()
 
         results = self.filtering.filter(
@@ -52,7 +49,6 @@ class SearchEngine:
             language=language,
             min_rating=min_rating
         )
-
         results = self.ranker.rank(results)
 
         return results.head(k)
