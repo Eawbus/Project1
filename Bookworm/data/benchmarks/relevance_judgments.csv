@@ -1,0 +1,542 @@
+query_id,query,book_id,title,author,semantic_rank,semantic_score,keyword_rank,keyword_score,relevance
+Q01,Harry Potter and the Philosopher's Stone,24299,Stone,Adam Roberts,1,0.5700168013572693,,,0
+Q01,Harry Potter and the Philosopher's Stone,13663,Harry Potter: A History of Magic,"British Library, J.K. Rowling, Julian Harrison (Introduction), Julia Eccleshare (Contributor), Roger Highfield (Contributor), Anna Pavord (Contributor), Lucy Mangan (Contributor), Tim Peake (Contributor), more…",2,0.5430927276611328,,,2
+Q01,Harry Potter and the Philosopher's Stone,21320,"Fullmetal Alchemist, Vol. 3","Hiromu Arakawa, Akira Watanabe (Translator)",3,0.5418353080749512,,,0
+Q01,Harry Potter and the Philosopher's Stone,126,Harry Potter and the Chamber of Secrets,"J.K. Rowling, Mary GrandPré (Illustrator)",4,0.5321117639541626,3,0.375,2
+Q01,Harry Potter and the Philosopher's Stone,16132,Stone Junction,"Jim Dodge, Thomas Pynchon (Introduction)",5,0.5321117043495178,,,0
+Q01,Harry Potter and the Philosopher's Stone,32,Harry Potter and the Sorcerer's Stone,"J.K. Rowling, Mary GrandPré (Illustrator)",,,1,0.4583333333333333,2
+Q01,Harry Potter and the Philosopher's Stone,6546,The Harry Potter trilogy,J.K. Rowling,,,2,0.4166666666666667,2
+Q01,Harry Potter and the Philosopher's Stone,1591,The Harry Potter Collection 1-4,"J.K. Rowling, Mary GrandPré (Illustrator)",,,4,0.375,2
+Q01,Harry Potter and the Philosopher's Stone,2276,Harry Potter Collection,J.K. Rowling,,,5,0.375,2
+Q02,Harry Potter,7355,Harry Potter: Film Wizardry,Brian Sibley,1,0.5881275534629822,,,2
+Q02,Harry Potter,71,Harry Potter and the Deathly Hallows,J.K. Rowling,2,0.5487297773361206,3,0.6666666666666666,2
+Q02,Harry Potter,32939,Harry Potter: A Pop-Up Book: Based on the Film Phenomenon,"Andrew Williamson (Illustrations), Andrew Williamson (Illustrator)",3,0.5482845902442932,,,2
+Q02,Harry Potter,41620,Turn,Sara's Girl,4,0.5433782339096069,,,1
+Q02,Harry Potter,39503,"The Magical Worlds Of Harry Potter: A Treasury Of Myths, Legends And Fascinating Facts",David Colbert (Goodreads Author),5,0.5357661247253418,,,2
+Q02,Harry Potter,33795,The Unofficial Harry Potter Cookbook: From Cauldron Cakes to Knickerbocker Glory--More Than 150 Magical Recipes for Wizards and Non-Wizards Alike,Dinah Bucholz,,,1,0.6666666666666666,2
+Q02,Harry Potter,32,Harry Potter and the Sorcerer's Stone,"J.K. Rowling, Mary GrandPré (Illustrator)",,,2,0.6666666666666666,2
+Q02,Harry Potter,93,Harry Potter and the Prisoner of Azkaban,"J.K. Rowling, Mary GrandPré (Illustrator)",,,4,0.6666666666666666,2
+Q02,Harry Potter,103,Harry Potter and the Goblet of Fire,"J.K. Rowling, Mary GrandPré (Illustrator)",,,5,0.6666666666666666,2
+Q03,J. K. Rowling fantasy novel,34165,Who Is J.K. Rowling?,"Pam Pollack, Meg Belviso, Stephen Marchesi (Illustrations), Nancy Harrison (Illustrations)",1,0.6481070518493652,,,2
+Q03,J. K. Rowling fantasy novel,50008,Hogwarts: An Incomplete and Unreliable Guide,J.K. Rowling,2,0.5866149663925171,,,2
+Q03,J. K. Rowling fantasy novel,29335,Darkling,K.M. Rice,3,0.5716578960418701,,,0
+Q03,J. K. Rowling fantasy novel,26023,The Tower of Sorcery,James Galloway,4,0.5362459421157837,,,1
+Q03,J. K. Rowling fantasy novel,39503,"The Magical Worlds Of Harry Potter: A Treasury Of Myths, Legends And Fascinating Facts",David Colbert (Goodreads Author),5,0.5288010239601135,,,2
+Q03,J. K. Rowling fantasy novel,966,To Live and Die in Fantasyland,Ben Peller (Goodreads Author),,,1,0.5,0
+Q03,J. K. Rowling fantasy novel,2238,Fruzzle's Mystery Talent: A Bed Time Fantasy Story for Children ages 3-10,"Karen (Kara) Brueggeman (Goodreads Author), Briana Paddock, Bryan Brueggeman (Illustrator)",,,2,0.5,1
+Q03,J. K. Rowling fantasy novel,35123,Escape From Samsara: A Dark Comedy Fantasy Adventure,Nicky Blue (Goodreads Author),,,3,0.5,1
+Q03,J. K. Rowling fantasy novel,4775,The Rise of Nazil: Complete Epic Fantasy Trilogy: Gritty Epic Fantasy,Aaron-Michael Hall (Goodreads Author),,,4,0.5,0
+Q03,J. K. Rowling fantasy novel,14592,The Tough Guide to Fantasyland,Diana Wynne Jones,,,5,0.5,0
+Q04,young wizard named Harry Potter,32,Harry Potter and the Sorcerer's Stone,"J.K. Rowling, Mary GrandPré (Illustrator)",1,0.5831995010375977,,,2
+Q04,young wizard named Harry Potter,34165,Who Is J.K. Rowling?,"Pam Pollack, Meg Belviso, Stephen Marchesi (Illustrations), Nancy Harrison (Illustrations)",2,0.5655463933944702,,,1
+Q04,young wizard named Harry Potter,39503,"The Magical Worlds Of Harry Potter: A Treasury Of Myths, Legends And Fascinating Facts",David Colbert (Goodreads Author),3,0.5320034027099609,,,2
+Q04,young wizard named Harry Potter,11509,The Dufus Diaries: Off to See the Wizard,Deon Potgieter (Goodreads Author),4,0.5293796062469482,,,0
+Q04,young wizard named Harry Potter,103,Harry Potter and the Goblet of Fire,"J.K. Rowling, Mary GrandPré (Illustrator)",5,0.5277185440063477,,,2
+Q04,young wizard named Harry Potter,10932,Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry,J.K. Rowling,,,1,0.5333333333333333,2
+Q04,young wizard named Harry Potter,2276,Harry Potter Collection,J.K. Rowling,,,2,0.4666666666666667,2
+Q04,young wizard named Harry Potter,9993,The Young Wizards,Diane Duane (Goodreads Author),,,3,0.4666666666666667,0
+Q04,young wizard named Harry Potter,1591,The Harry Potter Collection 1-4,"J.K. Rowling, Mary GrandPré (Illustrator)",,,4,0.43333333333333335,2
+Q04,young wizard named Harry Potter,2568,Harry Potter and the Methods of Rationality,Eliezer Yudkowsky (Goodreads Author),,,5,0.4,2
+Q05,the boy who lived,10083,There are No Children Here: The Story of Two Boys Growing Up in the Other America,Alex Kotlowitz,1,0.5078978538513184,,,0
+Q05,the boy who lived,25701,The Boy on the Porch,Sharon Creech,2,0.5030025243759155,,,0
+Q05,the boy who lived,25054,"The Boy, The Bird and The Coffin Maker",Matilda Woods (Goodreads Author),3,0.4968037009239197,,,0
+Q05,the boy who lived,31248,The Loner,Ester Wier,4,0.48610806465148926,,,0
+Q05,the boy who lived,26021,The Boy on the Wooden Box,Leon Leyson,5,0.473322332,,,0
+Q05,the boy who lived,20173,Life on the Color Line: The True Story of a White Boy Who Discovered He Was Black,Gregory Howard Williams,,,1,0.5,0
+Q05,the boy who lived,7364,The Girl Who Lived,Christopher Greyson (Goodreads Author),,,2,0.4444444444444444,0
+Q05,the boy who lived,10707,The Boy Who Harnessed the Wind: Creating Currents of Electricity and Hope,"William Kamkwamba (Goodreads Author), Bryan Mealer",,,3,0.4444444444444444,0
+Q05,the boy who lived,11795,The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook,"Bruce D. Perry, Maia Szalavitz (Goodreads Author)",,,4,0.4444444444444444,0
+Q05,the boy who lived,14514,The Boys Who Challenged Hitler: Knud Pedersen and the Churchill Club,Phillip Hoose,,,5,0.4444444444444444,0
+Q06,boy discovers he is a wizard and attends a magical school,26695,Off to Be the Wizard,"Scott Meyer (Goodreads Author), Luke Daniels (Narrator)",1,0.5992733240127563,,,1
+Q06,boy discovers he is a wizard and attends a magical school,3329,The Wizard Heir,Cinda Williams Chima (Goodreads Author),2,0.5917894244194031,,,1
+Q06,boy discovers he is a wizard and attends a magical school,9430,The Magic Thief,"Sarah Prineas (Goodreads Author), Antonio Javier Caparo (Goodreads Author) (Illustrator)",3,0.5813149213790894,,,1
+Q06,boy discovers he is a wizard and attends a magical school,41428,The Witch Boy,Molly Ostertag,4,0.5601081848144531,,,1
+Q06,boy discovers he is a wizard and attends a magical school,18878,"Wizard (Rainbow's End, #1)",Corrie Mitchell (Goodreads Author),5,0.5361527800559998,,,1
+Q06,boy discovers he is a wizard and attends a magical school,15581,When You Rise Up: A Covenantal Approach to Homeschooling,R.C. Sproul Jr.,,,1,0.375,0
+Q06,boy discovers he is a wizard and attends a magical school,10932,Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry,J.K. Rowling,,,2,0.3541666666666667,2
+Q06,boy discovers he is a wizard and attends a magical school,14148,Survival of the Sickest: A Medical Maverick Discovers Why We Need Disease,"Sharon Moalem (Goodreads Author), Jonathan Prince",,,3,0.3541666666666667,0
+Q06,boy discovers he is a wizard and attends a magical school,40508,Boys Should Be Boys: 7 Secrets to Raising Healthy Sons,Meg Meeker,,,4,0.3541666666666667,0
+Q06,boy discovers he is a wizard and attends a magical school,6860,The History Boys,Alan Bennett,,,5,0.3333333333333333,0
+Q07,1984,44421,We Were Eight Years in Power: An American Tragedy,Ta-Nehisi Coates,1,0.45273011922836304,,,0
+Q07,1984,27699,The Greatest Generation,Tom Brokaw,2,0.41905975341796875,,,0
+Q07,1984,80,1984,George Orwell,3,0.39991331100463867,3,0.5,2
+Q07,1984,45900,Morning in America: How Ronald Reagan Invented the 1980's,Gil Troy (Goodreads Author),4,0.38407427072525024,,,0
+Q07,1984,31831,"The Ministry of Truth: The Biography of George Orwell's ""1984""",Dorian Lynskey,5,0.3791133165359497,1,0.6666666666666666,2
+Q07,1984,973,Animal Farm / 1984,"George Orwell, Christopher Hitchens (Introduction)",,,2,0.6666666666666666,2
+Q07,1984,44243,"The Arab of the Future: A Childhood in the Middle East, 1978-1984: A Graphic Memoir",Riad Sattouf,,,4,0.5,0
+Q07,1984,44017,"The Arab of the Future 2: A Childhood in the Middle East, 1984-1985: A Graphic Memoir",Riad Sattouf,,,5,0.5,0
+Q08,George Orwell's 1984,31831,"The Ministry of Truth: The Biography of George Orwell's ""1984""",Dorian Lynskey,1,0.6914750337600708,1,0.6666666666666666,2
+Q08,George Orwell's 1984,80,1984,George Orwell,2,0.6691200733184814,4,0.2777777777777778,2
+Q08,George Orwell's 1984,45531,Animal Farm,"Ian Wooldridge (Adapted by), George Orwell",3,0.6257214546203613,,,1
+Q08,George Orwell's 1984,18437,"George Orwell Omnibus: The Complete Novels: Animal Farm, Burmese Days, A Clergyman's Daughter, Coming up for Air, Keep the Aspidistra Flying, and Nineteen Eighty-Four",George Orwell,4,0.6098358035087585,2,0.4444444444444444,2
+Q08,George Orwell's 1984,973,Animal Farm / 1984,"George Orwell, Christopher Hitchens (Introduction)",5,0.6028690338134766,3,0.3333333333333333,2
+Q08,George Orwell's 1984,22585,The Unexpected Vacation of George Thring,Alastair Puddick (Goodreads Author),,,5,0.2222222222222222,0
+Q09,George Orwell dystopian novel,80,1984,George Orwell,1,0.7275280356407166,,,2
+Q09,George Orwell dystopian novel,18437,"George Orwell Omnibus: The Complete Novels: Animal Farm, Burmese Days, A Clergyman's Daughter, Coming up for Air, Keep the Aspidistra Flying, and Nineteen Eighty-Four",George Orwell,2,0.6800740957260132,1,0.4444444444444444,2
+Q09,George Orwell dystopian novel,45531,Animal Farm,"Ian Wooldridge (Adapted by), George Orwell",3,0.6735318899154663,,,2
+Q09,George Orwell dystopian novel,863,We,"Yevgeny Zamyatin, Clarence Brown (Translator, Introduction)",4,0.6735031008720398,,,2
+Q09,George Orwell dystopian novel,14657,A Collection of Essays,George Orwell,5,0.6339097023010254,,,1
+Q09,George Orwell dystopian novel,31831,"The Ministry of Truth: The Biography of George Orwell's ""1984""",Dorian Lynskey,,,2,0.4444444444444444,2
+Q09,George Orwell dystopian novel,22585,The Unexpected Vacation of George Thring,Alastair Puddick (Goodreads Author),,,3,0.2222222222222222,0
+Q09,George Orwell dystopian novel,20539,"Dear George, Dear Mary: A Novel of George Washington's First Love",Mary Calvi (Goodreads Author),,,4,0.2222222222222222,0
+Q09,George Orwell dystopian novel,41128,The Temple: The Poetry of George Herbert,"George Herbert, Henry L. Carrigan Jr. (Editor)",,,5,0.2222222222222222,0
+Q10,dystopian novel about totalitarian government,22410,The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics,"Bruce Bueno de Mesquita, Alastair Smith",1,0.5214740037918091,,,1
+Q10,dystopian novel about totalitarian government,12317,The Origins of Totalitarianism,Hannah Arendt,2,0.5177252292633057,5,0.2777777777777778,1
+Q10,dystopian novel about totalitarian government,23688,Notes on Democracy,H.L. Mencken,3,0.5044076442718506,,,1
+Q10,dystopian novel about totalitarian government,45531,Animal Farm,"Ian Wooldridge (Adapted by), George Orwell",4,0.5032338500022888,,,2
+Q10,dystopian novel about totalitarian government,38109,Two Treatises of Government,"John Locke, Peter Laslett (Editor)",5,0.5017212629318237,,,0
+Q10,dystopian novel about totalitarian government,8574,Second Treatise of Government,"John Locke, Crawford Brough Macpherson (Editor)",,,1,0.3333333333333333,0
+Q10,dystopian novel about totalitarian government,46139,What Has Government Done to Our Money? and The Case for the 100 Percent Gold Dollar,Murray N. Rothbard,,,2,0.3333333333333333,0
+Q10,dystopian novel about totalitarian government,22861,Clinton Cash: The Untold Story of How and Why Foreign Governments and Businesses Helped Make Bill and Hillary Rich,Peter Schweizer,,,3,0.3333333333333333,0
+Q10,dystopian novel about totalitarian government,8076,The Proper Role of Government,Ezra Taft Benson,,,4,0.3333333333333333,0
+Q11,society under constant surveillance,34565,"Welcome to the Machine: Science, Surveillance, and the Culture of Control","Derrick Jensen, George Draffan",1,0.5745053291320801,,,1
+Q11,society under constant surveillance,21983,The Naked Society,Vance Packard,2,0.5339412093162537,,,1
+Q11,society under constant surveillance,40404,"How to Disappear: From Abusive Spouses, Bloodhounds, and the CIA","Derrick Jensen (Editor), Tony Millionaire (Illustrator)",3,0.47512295842170715,,,0
+Q11,society under constant surveillance,31559,Dystopia Boy: The Unauthorized Files,Trevor D. Richardson (Goodreads Author),4,0.4591001272201538,,,2
+Q11,society under constant surveillance,40713,"No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",Glenn Greenwald,5,0.4511564373970032,,,1
+Q11,society under constant surveillance,41723,Deschooling Society,Ivan Illich,,,1,0.3333333333333333,0
+Q11,society under constant surveillance,47075,Intellectuals and Society,Thomas Sowell,,,2,0.3333333333333333,0
+Q11,society under constant surveillance,31047,The Affluent Society,John Kenneth Galbraith,,,3,0.3333333333333333,0
+Q11,society under constant surveillance,47958,The Sane Society,Erich Fromm,,,4,0.3333333333333333,0
+Q11,society under constant surveillance,15580,The Open Society and Its Enemies - Volume Two: Hegel and Marx,Karl Popper,,,5,0.3333333333333333,1
+Q12,political manipulation of truth and thought control,3632,Pro Truth: A Practical Plan for Putting Truth Back Into Politics,"Gleb Tsipursky (Goodreads Author), Tim Ward (Goodreads Author)",1,0.5909765958786011,,,2
+Q12,political manipulation of truth and thought control,36945,Just Gaming,Jean-François Lyotard,2,0.5451464653015137,,,1
+Q12,political manipulation of truth and thought control,47075,Intellectuals and Society,Thomas Sowell,3,0.45426663756370544,,,1
+Q12,political manipulation of truth and thought control,26522,Politics Out of History,Wendy Brown,4,0.45226117968559265,,,0
+Q12,political manipulation of truth and thought control,6167,Manufacturing Consent: The Political Economy of the Mass Media,"Edward S. Herman, Noam Chomsky",5,0.436808705,3,0.23333333333333334,1
+Q12,political manipulation of truth and thought control,32993,"More Guns, Less Crime: Understanding Crime and Gun Control Laws",John R. Lott Jr.,,,1,0.26666666666666666,0
+Q12,political manipulation of truth and thought control,17992,Politics - According to the Bible: A Comprehensive Resource for Understanding Modern Political Issues in Light of Scripture,Wayne Grudem,,,2,0.23333333333333334,0
+Q12,political manipulation of truth and thought control,21141,Political Suicide,Alan Russell (Goodreads Author),,,4,0.2,1
+Q12,political manipulation of truth and thought control,7963,Truth,Aleatha Romig (Goodreads Author),,,5,0.2,0
+Q13,Animal Farm,22716,Mercy for Animals: One Man's Quest to Inspire Compassion and Improve the Lives of Farm Animals,"Nathan Runkle, Gene Stone (Goodreads Author)",1,0.5943278670310974,2,0.8333333333333334,0
+Q13,Animal Farm,16416,Farm Sanctuary: Changing Hearts and Minds About Animals and Food,Gene Baur (Goodreads Author),2,0.585771382,1,0.8333333333333334,0
+Q13,Animal Farm,19024,Petting Farm Fun,Karen Jean Matsko Hood (Goodreads Author),3,0.5820282697677612,,,0
+Q13,Animal Farm,6,Animal Farm,"George Orwell, Russell Baker (Preface), C.M. Woodhouse (Introduction)",4,0.5560652017593384,5,0.6666666666666666,2
+Q13,Animal Farm,973,Animal Farm / 1984,"George Orwell, Christopher Hitchens (Introduction)",5,0.5357927083969116,,,2
+Q13,Animal Farm,23675,The Pig Who Sang to the Moon: The Emotional World of Farm Animals,Jeffrey Moussaieff Masson,,,3,0.8333333333333334,0
+Q13,Animal Farm,48561,Radiant: Farm Animals Up Close and Personal (Farm Animal Photography Book),Traer Scott (Photographs),,,4,0.8333333333333334,0
+Q14,George Orwell's Animal Farm,6,Animal Farm,"George Orwell, Russell Baker (Preface), C.M. Woodhouse (Introduction)",1,0.751373291,2,0.4166666666666667,2
+Q14,George Orwell's Animal Farm,973,Animal Farm / 1984,"George Orwell, Christopher Hitchens (Introduction)",2,0.7433016300201416,4,0.4166666666666667,2
+Q14,George Orwell's Animal Farm,45531,Animal Farm,"Ian Wooldridge (Adapted by), George Orwell",3,0.6886866688728333,,,2
+Q14,George Orwell's Animal Farm,18437,"George Orwell Omnibus: The Complete Novels: Animal Farm, Burmese Days, A Clergyman's Daughter, Coming up for Air, Keep the Aspidistra Flying, and Nineteen Eighty-Four",George Orwell,4,0.652927041,1,0.5833333333333334,2
+Q14,George Orwell's Animal Farm,48711,Farm Boy,Michael Morpurgo,5,0.5292738676071167,,,0
+Q14,George Orwell's Animal Farm,16416,Farm Sanctuary: Changing Hearts and Minds About Animals and Food,Gene Baur (Goodreads Author),,,3,0.4166666666666667,0
+Q14,George Orwell's Animal Farm,22716,Mercy for Animals: One Man's Quest to Inspire Compassion and Improve the Lives of Farm Animals,"Nathan Runkle, Gene Stone (Goodreads Author)",,,5,0.4166666666666667,0
+Q15,political allegory by George Orwell,45531,Animal Farm,"Ian Wooldridge (Adapted by), George Orwell",1,0.7067663669586182,,,2
+Q15,political allegory by George Orwell,80,1984,George Orwell,2,0.6209566593170166,,,2
+Q15,political allegory by George Orwell,6,Animal Farm,"George Orwell, Russell Baker (Preface), C.M. Woodhouse (Introduction)",3,0.6102134585380554,,,2
+Q15,political allegory by George Orwell,31831,"The Ministry of Truth: The Biography of George Orwell's ""1984""",Dorian Lynskey,4,0.6075260043144226,1,0.375,2
+Q15,political allegory by George Orwell,14657,A Collection of Essays,George Orwell,5,0.6032726764678955,,,2
+Q15,political allegory by George Orwell,18437,"George Orwell Omnibus: The Complete Novels: Animal Farm, Burmese Days, A Clergyman's Daughter, Coming up for Air, Keep the Aspidistra Flying, and Nineteen Eighty-Four",George Orwell,,,2,0.3333333333333333,2
+Q15,political allegory by George Orwell,28478,Shrub: The Short but Happy Political Life of George W. Bush,"Molly Ivins, Lou Dubose",,,3,0.3333333333333333,0
+Q15,political allegory by George Orwell,17992,Politics - According to the Bible: A Comprehensive Resource for Understanding Modern Political Issues in Light of Scripture,Wayne Grudem,,,4,0.25,0
+Q15,political allegory by George Orwell,6167,Manufacturing Consent: The Political Economy of the Mass Media,"Edward S. Herman, Noam Chomsky",,,5,0.25,0
+Q16,novel about animals running a farm,6,Animal Farm,"George Orwell, Russell Baker (Preface), C.M. Woodhouse (Introduction)",1,0.6415780186653137,,,2
+Q16,novel about animals running a farm,48561,Radiant: Farm Animals Up Close and Personal (Farm Animal Photography Book),Traer Scott (Photographs),2,0.6371405124664307,4,0.5555555555555556,0
+Q16,novel about animals running a farm,19024,Petting Farm Fun,Karen Jean Matsko Hood (Goodreads Author),3,0.599121094,,,0
+Q16,novel about animals running a farm,973,Animal Farm / 1984,"George Orwell, Christopher Hitchens (Introduction)",4,0.5974327921867371,,,2
+Q16,novel about animals running a farm,30402,The Dig,Cynan Jones (Goodreads Author),5,0.5843294262886047,,,0
+Q16,novel about animals running a farm,16416,Farm Sanctuary: Changing Hearts and Minds About Animals and Food,Gene Baur (Goodreads Author),,,1,0.5555555555555556,0
+Q16,novel about animals running a farm,22716,Mercy for Animals: One Man's Quest to Inspire Compassion and Improve the Lives of Farm Animals,"Nathan Runkle, Gene Stone (Goodreads Author)",,,2,0.5555555555555556,0
+Q16,novel about animals running a farm,23675,The Pig Who Sang to the Moon: The Emotional World of Farm Animals,Jeffrey Moussaieff Masson,,,3,0.5555555555555556,0
+Q16,novel about animals running a farm,41906,My Animals and Other Family,Clare Balding,,,5,0.3888888888888889,0
+Q17,all animals are equal but some are more equal than others,23675,The Pig Who Sang to the Moon: The Emotional World of Farm Animals,Jeffrey Moussaieff Masson,1,0.38664570450782776,,,0
+Q17,all animals are equal but some are more equal than others,33633,Why Animals Saved humans?,Divyansh Mishra DM (Goodreads Author),2,0.3777049481868744,,,0
+Q17,all animals are equal but some are more equal than others,21565,Animal Rights: A Very Short Introduction,David DeGrazia,3,0.3752911388874054,,,0
+Q17,all animals are equal but some are more equal than others,10390,Are We Smart Enough to Know How Smart Animals Are?,Frans de Waal,4,0.37472814321517944,5,0.2962962962962963,0
+Q17,all animals are equal but some are more equal than others,18907,Discord: More than Beasts - Less than Gods,B27321,5,0.3708117604255676,,,0
+Q17,all animals are equal but some are more equal than others,18222,"Simplicity Parenting: Using the Extraordinary Power of Less to Raise Calmer, Happier, and More Secure Kids","Kim John Payne, Lisa M. Ross (Goodreads Author)",,,1,0.3333333333333333,0
+Q17,all animals are equal but some are more equal than others,40849,Pushed: The Painful Truth About Childbirth and Modern Maternity Care,Jennifer Block (Goodreads Author),,,2,0.3333333333333333,0
+Q17,all animals are equal but some are more equal than others,29542,"Raising Your Spirited Child: A Guide for Parents Whose Child is More Intense, Sensitive, Perceptive, Persistent, and Energetic",Mary Sheedy Kurcinka,,,3,0.3148148148148148,0
+Q17,all animals are equal but some are more equal than others,43568,Vaccines Are They Really Safe and Effective?,Neil Z. Miller,,,4,0.3148148148148148,0
+Q18,revolution against oppression that becomes a new tyranny,26165,Revolution,Russell Brand,1,0.5452194213867188,,,1
+Q18,revolution against oppression that becomes a new tyranny,34518,The Return of the Primitive: The Anti-Industrial Revolution,"Ayn Rand, Peter Schwartz (Goodreads Author) (Editor)",2,0.5314360857009888,,,1
+Q18,revolution against oppression that becomes a new tyranny,31403,The Ideological Origins of the American Revolution,Bernard Bailyn,3,0.5307053327560425,,,1
+Q18,revolution against oppression that becomes a new tyranny,6307,Liberty and Tyranny: A Conservative Manifesto,Mark R. Levin,4,0.5303020477294922,,,2
+Q18,revolution against oppression that becomes a new tyranny,45672,"The Twilight of Equality: Neoliberalism, Cultural Politics, and the Attack on Democracy",Lisa Duggan,5,0.5297108888626099,,,1
+Q18,revolution against oppression that becomes a new tyranny,46051,The Battle for New York: The City at the Heart of the American Revolution,"Barnet Schecter, Ellen Cipriano (Designed by)",,,1,0.3055555555555556,1
+Q18,revolution against oppression that becomes a new tyranny,13677,The New Left: The Anti-Industrial Revolution,Ayn Rand,,,2,0.25,1
+Q18,revolution against oppression that becomes a new tyranny,32539,Food and the City: Urban Agriculture and the New Food Revolution,Jennifer Cockrall-King,,,3,0.25,0
+Q18,revolution against oppression that becomes a new tyranny,47006,Madame Tussaud: A Novel of the French Revolution,Michelle Moran (Goodreads Author),,,4,0.25,2
+Q18,revolution against oppression that becomes a new tyranny,15057,The 7-Day Flat-Belly Tea Cleanse: The Revolutionary New Plan to Melt Up to 10 Pounds of Fat in Just One Week! by Kelly Choi | A 10-minute Summary,Bern Bolo (Goodreads Author),,,5,0.2222222222222222,0
+Q19,The Wealth of Nations,31634,The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor,David S. Landes,1,0.723670244,2,0.6666666666666666,2
+Q19,The Wealth of Nations,9042,"Why Nations Fail: The Origins of Power, Prosperity, and Poverty","Daron Acemoğlu, James A. Robinson",2,0.6093310713768005,5,0.4166666666666667,2
+Q19,The Wealth of Nations,2408,An Inquiry into the Nature and Causes of the Wealth of Nations,Adam Smith,3,0.6076262593269348,1,0.6666666666666666,2
+Q19,The Wealth of Nations,6652,Capital in the Twenty-First Century,"Thomas Piketty, Arthur Goldhammer (Goodreads Author) (Translator)",4,0.5116691589355469,,,2
+Q19,The Wealth of Nations,30032,"Sacred Economics: Money, Gift, and Society in the Age of Transition",Charles Eisenstein,5,0.5037448406219482,,,2
+Q19,The Wealth of Nations,21222,Common Sense Economics: What Everyone Should Know about Wealth and Prosperity,"James D. Gwartney, Richard L. Stroup",,,3,0.4166666666666667,1
+Q19,The Wealth of Nations,4913,The Millennial Reincarnations,Daniel M. Harrison,,,4,0.4166666666666667,0
+Q20,Adam Smith's The Wealth of Nations,2408,An Inquiry into the Nature and Causes of the Wealth of Nations,Adam Smith,1,0.7530523538589478,1,0.4166666666666667,2
+Q20,Adam Smith's The Wealth of Nations,23325,"Spanish Economics in the Sixteenth Century: Theory, Policy, and Practice",Alexander Gallardo,2,0.6137535572052002,,,0
+Q20,Adam Smith's The Wealth of Nations,31634,The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor,David S. Landes,3,0.5862220525741577,2,0.3333333333333333,2
+Q20,Adam Smith's The Wealth of Nations,21434,The Theory of Moral Sentiments,Adam Smith,4,0.546209991,,,1
+Q20,Adam Smith's The Wealth of Nations,41959,The Worldly Philosophers,Robert L. Heilbroner,5,0.5362275242805481,,,0
+Q20,Adam Smith's The Wealth of Nations,21222,Common Sense Economics: What Everyone Should Know about Wealth and Prosperity,"James D. Gwartney, Richard L. Stroup",,,3,0.20833333333333334,1
+Q20,Adam Smith's The Wealth of Nations,4913,The Millennial Reincarnations,Daniel M. Harrison,,,4,0.20833333333333334,0
+Q20,Adam Smith's The Wealth of Nations,9042,"Why Nations Fail: The Origins of Power, Prosperity, and Poverty","Daron Acemoğlu, James A. Robinson",,,5,0.20833333333333334,2
+Q21,classic economics book by Adam Smith,2408,An Inquiry into the Nature and Causes of the Wealth of Nations,Adam Smith,1,0.6935367584228516,,,2
+Q21,classic economics book by Adam Smith,13222,Basic Economics: A Citizen's Guide to the Economy,Thomas Sowell,2,0.6568103432655334,,,1
+Q21,classic economics book by Adam Smith,41959,The Worldly Philosophers,Robert L. Heilbroner,3,0.5960953831672668,,,0
+Q21,classic economics book by Adam Smith,25313,Capitalism,George Reisman,4,0.5787877440452576,,,1
+Q21,classic economics book by Adam Smith,24186,Socialism: An Economic and Sociological Analysis,"Ludwig von Mises, J. Kahane (Translator), Friedrich A. Hayek (Foreword by)",5,0.5660399198532104,4,0.3333333333333333,1
+Q21,classic economics book by Adam Smith,4804,Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics,Henry Hazlitt,,,1,0.375,1
+Q21,classic economics book by Adam Smith,23520,Liberalism: The Classical Tradition,"Ludwig von Mises, Bettina Bien Greaves (Editor)",,,2,0.375,0
+Q21,classic economics book by Adam Smith,8242,Human Action: A Treatise on Economics,"Ludwig von Mises, Bettina Bien Greaves (Editor)",,,3,0.3333333333333333,1
+Q21,classic economics book by Adam Smith,9237,War is a Racket: The Antiwar Classic by America's Most Decorated Soldier,"Smedley D. Butler, Adam Parfrey (Introduction)",,,5,0.2916666666666667,0
+Q22,foundational work of modern economics,13222,Basic Economics: A Citizen's Guide to the Economy,Thomas Sowell,1,0.6237237453460693,,,1
+Q22,foundational work of modern economics,27865,Applied Economics: Thinking Beyond Stage One,Thomas Sowell,2,0.6124057769775391,,,1
+Q22,foundational work of modern economics,28975,"The General Theory of Employment, Interest, and Money",John Maynard Keynes,3,0.6002709269523621,,,1
+Q22,foundational work of modern economics,41959,The Worldly Philosophers,Robert L. Heilbroner,4,0.5899006724357605,,,0
+Q22,foundational work of modern economics,25313,Capitalism,George Reisman,5,0.5889530181884766,,,2
+Q22,foundational work of modern economics,50214,Buddhist Economics: An Enlightened Approach to the Dismal Science,Clair Brown,,,1,0.3888888888888889,1
+Q22,foundational work of modern economics,27375,Small Is Beautiful: Economics as if People Mattered,Ernst F. Schumacher,,,2,0.3888888888888889,1
+Q22,foundational work of modern economics,4804,Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics,Henry Hazlitt,,,3,0.3888888888888889,1
+Q22,foundational work of modern economics,30032,"Sacred Economics: Money, Gift, and Society in the Age of Transition",Charles Eisenstein,,,4,0.3888888888888889,0
+Q22,foundational work of modern economics,8242,Human Action: A Treatise on Economics,"Ludwig von Mises, Bettina Bien Greaves (Editor)",,,5,0.3333333333333333,1
+Q23,invisible hand of the market,23224,The Hidden Hand,E.D.E.N. Southworth,1,0.5524289011955261,,,0
+Q23,invisible hand of the market,19502,Selling the Invisible: A Field Guide to Modern Marketing,Harry Beckwith,2,0.44401705265045166,1,0.4444444444444444,1
+Q23,invisible hand of the market,15476,Flash Boys: A Wall Street Revolt,Michael Lewis,3,0.42136162519454956,,,1
+Q23,invisible hand of the market,10669,The Moneychangers,Arthur Hailey,4,0.411657453,,,0
+Q23,invisible hand of the market,9032,Liar's Poker,Michael Lewis,5,0.39834702014923096,,,1
+Q23,invisible hand of the market,12320,The Intern's Handbook,Shane Kuhn (Goodreads Author),,,2,0.2777777777777778,0
+Q23,invisible hand of the market,41874,An Invisible Thread,"Laura Schroff (Goodreads Author), Alex Tresniowski, Valerie Salembier (Foreword)",,,3,0.2777777777777778,0
+Q23,invisible hand of the market,42294,"Don't Hire a Software Developer Until You Read this Book: The handbook for tech startups & entrepreneurs (from idea, to build, to product launch and everything in between.)",K.N. Kukoyi (Goodreads Author),,,4,0.2777777777777778,0
+Q23,invisible hand of the market,26184,"Createspace and Kindle Self-Publishing Masterclass - Second Edition: The Step-by-Step Author's Guide to Writing, Publishing and Marketing Your Books on Amazon",Rick Smith (Goodreads Author),,,5,0.2777777777777778,0
+Q24,book explaining how self-interest influences economic prosperity,13222,Basic Economics: A Citizen's Guide to the Economy,Thomas Sowell,1,0.5870610475540161,,,1
+Q24,book explaining how self-interest influences economic prosperity,27255,The Little Book That Builds Wealth: The Knockout Formula for Finding Great Investments,Pat Dorsey,2,0.5597459077835083,,,1
+Q24,book explaining how self-interest influences economic prosperity,12249,Rich Dad's Guide to Investing: What the Rich Invest in That the Poor and Middle Class Do Not!,"Robert T. Kiyosaki, Sharon L. Lechter (Goodreads Author)",3,0.5195876359939575,,,1
+Q24,book explaining how self-interest influences economic prosperity,45032,How to Get Rich,Felix Dennis,4,0.5085878968238831,,,1
+Q24,book explaining how self-interest influences economic prosperity,10637,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,"Thomas J. Stanley, William D. Danko",5,0.501289964,,,1
+Q24,book explaining how self-interest influences economic prosperity,39897,Obamanomics: How Bottom-Up Economic Prosperity Will Replace Trickle-Down Economics,John R. Talbott,,,1,0.2857142857142857,1
+Q24,book explaining how self-interest influences economic prosperity,23431,The Rational Optimist: How Prosperity Evolves,Matt Ridley,,,2,0.2857142857142857,1
+Q24,book explaining how self-interest influences economic prosperity,21478,How to Develop Self-Confidence And Influence People,Dale Carnegie,,,3,0.2619047619047619,0
+Q24,book explaining how self-interest influences economic prosperity,22466,"The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It",Kelly McGonigal (Goodreads Author),,,4,0.2619047619047619,0
+Q24,book explaining how self-interest influences economic prosperity,25022,Ship of Fools: How a Selfish Ruling Class Is Bringing America to the Brink of Revolution,"Tucker Carlson (Author, Narrator)",,,5,0.2619047619047619,0
+Q25,Romeo and Juliet,23,Romeo and Juliet,"William Shakespeare, Paul Werstine (Editor), Barbara A. Mowat (Editor), Paavo Emil Cajander (Translator)",1,0.7280895709991455,1,0.6666666666666666,2
+Q25,Romeo and Juliet,11034,Romeo's Ex: Rosaline's Story,Lisa Fiedler,2,0.6905943751335144,5,0.4166666666666667,1
+Q25,Romeo and Juliet,27159,Romeo x Juliet: Omnibus,"COM (Illustrated by), William Shakespeare (Original story by), GONZO (Original Animation), SPWT (Original Animation), Kate Beckwitt (Translator), Lys Blakeslee (Lettering)",3,0.65642488,3,0.5833333333333334,1
+Q25,Romeo and Juliet,7792,Juliet Immortal,Stacey Jay (Goodreads Author),4,0.6396445035934448,,,1
+Q25,Romeo and Juliet,7157,Sweet Rome,Tillie Cole (Goodreads Author),5,0.5968003273010254,,,1
+Q25,Romeo and Juliet,17626,Shakespeare's Romeo And Juliet Remixed,Nigel Tomm,,,2,0.6666666666666666,2
+Q25,Romeo and Juliet,25508,The Romeo and Juliet Code,Phoebe Stone,,,4,0.5,1
+Q26,Shakespeare's Romeo and Juliet,23,Romeo and Juliet,"William Shakespeare, Paul Werstine (Editor), Barbara A. Mowat (Editor), Paavo Emil Cajander (Translator)",1,0.7214524745941162,2,0.5,2
+Q26,Shakespeare's Romeo and Juliet,11034,Romeo's Ex: Rosaline's Story,Lisa Fiedler,2,0.7031991481781006,,,1
+Q26,Shakespeare's Romeo and Juliet,27159,Romeo x Juliet: Omnibus,"COM (Illustrated by), William Shakespeare (Original story by), GONZO (Original Animation), SPWT (Original Animation), Kate Beckwitt (Translator), Lys Blakeslee (Lettering)",3,0.664769173,4,0.3888888888888889,1
+Q26,Shakespeare's Romeo and Juliet,7792,Juliet Immortal,Stacey Jay (Goodreads Author),4,0.6393487453460693,,,1
+Q26,Shakespeare's Romeo and Juliet,28320,The Romance of Wind & Fire: a.k.a. Hamlet & Juliet (Shakespeare Remix Book 1),Brady Wilkinson,5,0.6335271000862122,3,0.5,1
+Q26,Shakespeare's Romeo and Juliet,17626,Shakespeare's Romeo And Juliet Remixed,Nigel Tomm,,,1,0.6666666666666666,2
+Q26,Shakespeare's Romeo and Juliet,8795,"The Complete Works of William Shakespeare (37 plays, 160 sonnets and 5 Poetry Books With Active Table of Contents)","William Shakespeare, Fb Publishing",,,5,0.3333333333333333,2
+Q27,tragedy by William Shakespeare,8795,"The Complete Works of William Shakespeare (37 plays, 160 sonnets and 5 Poetry Books With Active Table of Contents)","William Shakespeare, Fb Publishing",1,0.6859970092773438,1,0.5,2
+Q27,tragedy by William Shakespeare,31562,Poetics,"Aristotle, Malcolm Heath (Translator)",2,0.6738014221191406,,,0
+Q27,tragedy by William Shakespeare,21020,The First Folio of Shakespeare: 1623,"William Shakespeare, Doug Moston",3,0.6536709070205688,,,2
+Q27,tragedy by William Shakespeare,293,The Complete Works,William Shakespeare,4,0.651453972,,,2
+Q27,tragedy by William Shakespeare,942,The Tempest,"William Shakespeare, Paul Werstine (Editor), David Lindley (Editor), Israel Gollancz (Preface & Glossary), Barbara A. Mowat (Editor)",5,0.6407240629196167,,,2
+Q27,tragedy by William Shakespeare,17556,A Year in the Life of William Shakespeare: 1599,James Shapiro,,,2,0.3888888888888889,0
+Q27,tragedy by William Shakespeare,21397,The Tragedy of Arthur,Arthur Phillips (Goodreads Author),,,3,0.3333333333333333,0
+Q27,tragedy by William Shakespeare,49207,Memoirs Of General William T. Sherman,William T. Sherman,,,4,0.2777777777777778,0
+Q27,tragedy by William Shakespeare,4549,"Botanical Shakespeare: An Illustrated Compendium of All the Flowers, Fruits, Herbs, Trees, Seeds, and Grasses Cited by the World's Greatest Playwright","Gerit Quealy, Sumie Hasegawa Collins",,,5,0.2777777777777778,0
+Q28,play about two young lovers,23,Romeo and Juliet,"William Shakespeare, Paul Werstine (Editor), Barbara A. Mowat (Editor), Paavo Emil Cajander (Translator)",1,0.5629920959472656,,,2
+Q28,play about two young lovers,24491,#Nerd,Cambria Hebert (Goodreads Author),2,0.5014462471008301,,,0
+Q28,play about two young lovers,49389,Achingly Alice,Phyllis Reynolds Naylor,3,0.49334806203842163,,,1
+Q28,play about two young lovers,43553,The Game of Love and Death,Martha Brockenbrough (Goodreads Author),4,0.48725587129592896,,,0
+Q28,play about two young lovers,9965,Closer,Patrick Marber,5,0.4861552119255066,,,1
+Q28,play about two young lovers,25502,Lovers & Players,Jackie Collins,,,1,0.4166666666666667,1
+Q28,play about two young lovers,1323,Harry Potter and the Cursed Child: Parts One and Two,"John Tiffany (Adaptation), Jack Thorne, J.K. Rowling",,,2,0.375,0
+Q28,play about two young lovers,2755,Fantastic Beasts and Where to Find Them: The Original Screenplay,J.K. Rowling,,,3,0.3333333333333333,0
+Q28,play about two young lovers,9548,Fantastic Beasts - The Crimes of Grindelwald: The Original Screenplay,J.K. Rowling,,,4,0.3333333333333333,0
+Q28,play about two young lovers,46748,Replay,Sharon Creech,,,5,0.3333333333333333,0
+Q29,star-crossed lovers,17107,Everything and the Moon,"Julia Quinn (Goodreads Author), Bertha Smiths-Jacob (Translator)",1,0.48269015550613403,,,1
+Q29,star-crossed lovers,329,Stardust,Neil Gaiman (Goodreads Author),2,0.48079439997673035,,,1
+Q29,star-crossed lovers,34622,Guardians of the Cross,T.R.G. (Goodreads Author),3,0.4777345359325409,,,1
+Q29,star-crossed lovers,38487,Chaining the Lady,Piers Anthony,4,0.4744604825973511,,,1
+Q29,star-crossed lovers,48313,Carpe Diem,"Sharon Lee, Steve Miller",5,0.47322607040405273,,,1
+Q29,star-crossed lovers,49218,Star Trek: The Next Generation: Crossover,Michael Jan Friedman (Goodreads Author),,,1,0.3333333333333333,0
+Q29,star-crossed lovers,28757,The Physics of Star Trek,"Lawrence M. Krauss, Stephen Hawking (Foreword by)",,,2,0.3333333333333333,0
+Q29,star-crossed lovers,12518,The Star Wars Trilogy,"George Lucas, Donald F. Glut, James Kahn (Goodreads Author)",,,3,0.3333333333333333,0
+Q29,star-crossed lovers,16935,Kingdom of Fear: Loathsome Secrets of a Star-Crossed Child in the Final Days of the American Century,Hunter S. Thompson,,,4,0.3333333333333333,0
+Q29,star-crossed lovers,37604,Star Wars Myths & Fables,"George Mann, Grant Griffin (Illustrations)",,,5,0.3333333333333333,0
+Q30,romantic tragedy between members of rival families,47820,In Our Mothers' House,Patricia Polacco,1,0.5236510038375854,,,1
+Q30,romantic tragedy between members of rival families,11902,Family Life – A Bridge Between Harmony and Agony,Gheorghe Vîrtosu,2,0.5176823139190674,,,0
+Q30,romantic tragedy between members of rival families,4059,What I Loved,Siri Hustvedt,3,0.5132552981376648,,,0
+Q30,romantic tragedy between members of rival families,23,Romeo and Juliet,"William Shakespeare, Paul Werstine (Editor), Barbara A. Mowat (Editor), Paavo Emil Cajander (Translator)",4,0.5061827898025513,,,2
+Q30,romantic tragedy between members of rival families,23512,The Lonely Polygamist,Brady Udall,5,0.5056082010269165,,,0
+Q30,romantic tragedy between members of rival families,44527,My Thoughts Be Bloody: The Bitter Rivalry Between Edwin and John Wilkes Booth That Led to an American Tragedy,"Nora Titone, Doris Kearns Goodwin (Foreword by)",,,1,0.26666666666666666,0
+Q30,romantic tragedy between members of rival families,24814,A Mother's Reckoning: Living in the Aftermath of Tragedy,"Sue Klebold, Andrew Solomon (Introduction)",,,2,0.16666666666666666,0
+Q30,romantic tragedy between members of rival families,21314,Amish Grace: How Forgiveness Transcended Tragedy,"Donald B. Kraybill, Steven M. Nolt, David L. Weaver-Zercher",,,3,0.16666666666666666,0
+Q30,romantic tragedy between members of rival families,21397,The Tragedy of Arthur,Arthur Phillips (Goodreads Author),,,4,0.16666666666666666,0
+Q30,romantic tragedy between members of rival families,31030,The Arrival,Nicole MacDonald (Goodreads Author),,,5,0.16666666666666666,0
+Q31,The Bible,17567,The Expositor's Study Bible - Giant Print,Jimmy Swaggart,1,0.5500859022140503,,,1
+Q31,The Bible,22796,"The English Bible, King James Version: The Old Testament and The New Testament and The Apocrypha","Gerald Hammond (Editor), Austin Busch (Editor), Herbert Marks (Editor)",2,0.5434690713882446,,,2
+Q31,The Bible,46692,Ancient Near Eastern Thought and the Old Testament: Introducing the Conceptual World of the Hebrew Bible,John H. Walton,3,0.5203696489334106,,,1
+Q31,The Bible,34517,"The Bible, Designed to Be Read as Living Literature: The Old and the New Testaments in the King James Version",Ernest Sutherland Bates (Editor),4,0.5201414823532104,,,2
+Q31,The Bible,46549,The Lost World of Scripture: Ancient Literary Culture and Biblical Authority,"John H. Walton, D. Brent Sandy",5,0.5187198519706726,,,1
+Q31,The Bible,20480,"Holy Bible, NIV",Anonymous,,,1,0.6666666666666666,2
+Q31,The Bible,33794,Understanding Bible Prophecy for Yourself,Tim LaHaye,,,2,0.6666666666666666,1
+Q31,The Bible,29717,The Boomer Bible,R.F. Laird,,,3,0.6666666666666666,0
+Q31,The Bible,26659,"A Reasonable Response: Answers to Tough Questions on God, Christianity, and the Bible","William Lane Craig, Joseph E. Gorra",,,4,0.6666666666666666,1
+Q31,The Bible,2109,"The Holy Bible: New American Standard Version, NASB",Anonymous,,,5,0.6666666666666666,2
+Q32,Holy Bible,4798,Holy Bible: New Living Translation,Anonymous,1,0.6718004941940308,,,2
+Q32,Holy Bible,8029,Holy Bible: Revised Standard Version,Anonymous,2,0.6150534152984619,,,2
+Q32,Holy Bible,3596,The Holy Bible: English Standard Version,Anonymous,3,0.5953797698020935,,,2
+Q32,Holy Bible,6621,New World Translation of the Holy Scriptures,"Anonymous, Watch Tower Bible and Tract Society (translator)",4,0.5865269303321838,,,2
+Q32,Holy Bible,40363,"A Holy Life, the Beauty of Christianity: Or, an Exhortation to Christians to Be Holy",John Bunyan,5,0.5776606202125549,,,1
+Q32,Holy Bible,2109,"The Holy Bible: New American Standard Version, NASB",Anonymous,,,1,0.6666666666666666,2
+Q32,Holy Bible,20702,"The Holy Bible, Douay-Rheims Version",Anonymous,,,2,0.6666666666666666,2
+Q32,Holy Bible,2881,Holy Bible: The New King James Version,Anonymous,,,3,0.6666666666666666,2
+Q32,Holy Bible,19267,The LDS Scriptures: Unabridged Complete King James Version Holy Bible /The Book of Mormon / Doctrine and Covenants / The Pearl of Great Price,"The Church of Jesus Christ of Latter-day Saints, Joseph Smith Jr.",,,4,0.6666666666666666,2
+Q32,Holy Bible,20480,"Holy Bible, NIV",Anonymous,,,5,0.5833333333333334,2
+Q33,sacred scripture of Christianity,40837,A Conquering Faith: Doctrinal Foundations for Christian Reformation,William O. Einwechter,1,0.6013848781585693,,,1
+Q33,sacred scripture of Christianity,26901,The Orthodox Study Bible,"Anonymous, Peter E. Gillquist (Editor), J.N. Sparks (Project Director)",2,0.5635920763015747,,,2
+Q33,sacred scripture of Christianity,40363,"A Holy Life, the Beauty of Christianity: Or, an Exhortation to Christians to Be Holy",John Bunyan,3,0.542150617,,,1
+Q33,sacred scripture of Christianity,14947,The Book of Common Prayer and Administration of the Sacraments and Other Rites and Ceremonies of the Church,Church of England (Creator),4,0.5410235524177551,,,1
+Q33,sacred scripture of Christianity,49750,"Scripture Alone: Exploring the Bible's Accuracy, Authority, and Authenticity",James R. White,5,0.536557138,1,0.4444444444444444,1
+Q33,sacred scripture of Christianity,46549,The Lost World of Scripture: Ancient Literary Culture and Biblical Authority,"John H. Walton, D. Brent Sandy",,,2,0.4444444444444444,1
+Q33,sacred scripture of Christianity,6621,New World Translation of the Holy Scriptures,"Anonymous, Watch Tower Bible and Tract Society (translator)",,,3,0.3888888888888889,2
+Q33,sacred scripture of Christianity,25097,unChristian: What a New Generation Really Thinks about Christianity... and Why It Matters,"David Kinnaman, Gabe Lyons",,,4,0.3333333333333333,0
+Q33,sacred scripture of Christianity,29229,What's So Great About Christianity,Dinesh D'Souza (Goodreads Author),,,5,0.3333333333333333,1
+Q34,religious text containing the Old and New Testament,44643,An Introduction to the Old Testament,"Tremper Longman III, Raymond B. Dillard",1,0.6839737892150879,4,0.4166666666666667,1
+Q34,religious text containing the Old and New Testament,41844,The Message: The New Testament in Contemporary Language,Eugene H. Peterson (Translator),2,0.6608859300613403,,,1
+Q34,religious text containing the Old and New Testament,47250,The Historical Reliability of the New Testament: Countering the Challenges to Evangelical Christian Beliefs,"Craig L. Blomberg, Robert B. Stewart (Editor)",3,0.6477833986282349,,,1
+Q34,religious text containing the Old and New Testament,22796,"The English Bible, King James Version: The Old Testament and The New Testament and The Apocrypha","Gerald Hammond (Editor), Austin Busch (Editor), Herbert Marks (Editor)",4,0.6401090621948242,,,2
+Q34,religious text containing the Old and New Testament,21281,Holy Bible: The Greek New Testament,"Anonymous, Barbara Aland (Editor), Kurt Aland (Editor), B.M. Metzger (Editor), Johannes Karavidopoulos (Editor), C.M. Martini (Editor)",5,0.6331210732460022,5,0.3888888888888889,1
+Q34,religious text containing the Old and New Testament,44438,Old Testament Theology for Christians: From Ancient Context to Enduring Belief,John H. Walton,,,1,0.4722222222222222,1
+Q34,religious text containing the Old and New Testament,11596,The History of the Qurʾanic Text from Revelation to Compilation: A Comparative Study with the Old and New Testaments,Muhammad Mustafa al-ʿAzami,,,2,0.4444444444444444,1
+Q34,religious text containing the Old and New Testament,23370,A Survey of the New Testament,Robert H. Gundry,,,3,0.4166666666666667,1
+Q35,the word of God,6116,The Kingdom of God Is Within You,"Leo Tolstoy, Constance Garnett (Translator)",1,0.4822714030742645,,,1
+Q35,the word of God,19250,Journey To Healing and Wholeness,Paul Halbeck (Goodreads Author),2,0.4794677197933197,,,1
+Q35,the word of God,16298,The Pursuit of God: The Human Thirst for the Divine,A.W. Tozer,3,0.4782402515411377,,,1
+Q35,the word of God,41140,The God Who Is There,"Francis A. Schaeffer, James W. Sire (Introduction)",4,0.4697347581386566,,,1
+Q35,the word of God,8851,The Sovereignty of God,Arthur W. Pink,5,0.4620194137096405,,,1
+Q35,the word of God,40201,Sparkling Gems from the Greek: 365 Greek Word Studies for Every Day of the Year to Sharpen Your Understanding of God's Word,Rick Renner,,,1,0.6666666666666666,1
+Q35,the word of God,32716,Christianity Presented a Most Confusing Bible and Called it—the Word of God,Rodolfo Martin Vitangcol (Goodreads Author),,,2,0.6666666666666666,0
+Q35,the word of God,17164,God: The Failed Hypothesis: How Science Shows That God Does Not Exist,Victor J. Stenger,,,3,0.5833333333333334,0
+Q35,the word of God,25359,The Sacred Romance Drawing Closer To The Heart Of God,"John Eldredge, Brent Curtis",,,4,0.5833333333333334,1
+Q35,the word of God,26949,The Complete Book of Swords,Fred Saberhagen,,,5,0.5833333333333334,0
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,33794,Understanding Bible Prophecy for Yourself,Tim LaHaye,1,0.642996073,,,1
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,32015,Holy Bible: Prophecy Study Bible,Anonymous,2,0.6324719190597534,,,2
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,32304,The Prophecy: The Prophecy of the Vikings - The Creation of the World,Bernard Scudder (Translator),3,0.6262065768241882,,,1
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,21396,The Book of Isaiah,"Anonymous, Peter Ackroyd (Introduction)",4,0.5876781940460205,,,2
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,17668,Nesohc: A new version of Jesus,Charles E. Rodz,5,0.5740178823471069,,,1
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,31769,Christianity turned Jesus’ Mission of Life into a church,Rodolfo Martin Vitangcol (Goodreads Author),,,1,0.25,1
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,34136,The Man Born to Be King: A Play-Cycle on the Life of Our Lord and Saviour Jesus Christ,Dorothy L. Sayers,,,2,0.25,1
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,3379,Jesus the Christ,James E. Talmage,,,3,0.22916666666666666,1
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,8173,Passion and Purity: Learning to Bring Your Love Life Under Christ's Control,Elisabeth Elliot,,,4,0.22916666666666666,1
+Q36,collection of writings describing creation prophecy and the life of Jesus Christ,11979,Jesus Among Other Gods: The Absolute Claims of the Christian Message,Ravi Zacharias,,,5,0.22916666666666666,1
+Q37,The Great Gatsby,23162,"F. Scott Fitzgerald: The Great Gatsby: Essays, Articles, Reviews",Nicolas Tredell (Editor),1,0.6531705260276794,2,0.6666666666666666,2
+Q37,The Great Gatsby,45327,Trimalchio,"F. Scott Fitzgerald, James L.W. West III (Editor)",2,0.6221475601196289,,,2
+Q37,The Great Gatsby,27,The Great Gatsby,"F. Scott Fitzgerald, Francis Scott Fitzgerald",3,0.6183285713195801,1,0.6666666666666666,2
+Q37,The Great Gatsby,14732,Flappers and Philosophers,F. Scott Fitzgerald,4,0.48032721877098083,,,0
+Q37,The Great Gatsby,24595,The Golden Goblet,Eloise Jarvis McGraw,5,0.47258511185646057,,,0
+Q37,The Great Gatsby,68,Great Expectations,"Charles Dickens, Παυλίνα Παμπούδη (Translator), Marisa Sestino (Translator)",,,3,0.3333333333333333,0
+Q37,The Great Gatsby,41048,Moby Dick (Great Illustrated Classics),"Shirley Bogart (Adaptor), Herman Melville",,,4,0.3333333333333333,0
+Q37,The Great Gatsby,8326,The Great Escape,Paul Brickhill,,,5,0.3333333333333333,0
+Q38,F. Scott Fitzgerald's The Great Gatsby,23162,"F. Scott Fitzgerald: The Great Gatsby: Essays, Articles, Reviews",Nicolas Tredell (Editor),1,0.8172197341918945,1,0.625,2
+Q38,F. Scott Fitzgerald's The Great Gatsby,45327,Trimalchio,"F. Scott Fitzgerald, James L.W. West III (Editor)",2,0.7538799047470093,,,2
+Q38,F. Scott Fitzgerald's The Great Gatsby,27,The Great Gatsby,"F. Scott Fitzgerald, Francis Scott Fitzgerald",3,0.7161766290664673,2,0.4166666666666667,2
+Q38,F. Scott Fitzgerald's The Great Gatsby,7673,The Short Stories,"F. Scott Fitzgerald, Matthew J. Bruccoli (Editor)",4,0.5457022190093994,,,1
+Q38,F. Scott Fitzgerald's The Great Gatsby,14732,Flappers and Philosophers,F. Scott Fitzgerald,5,0.5209283828735352,,,1
+Q38,F. Scott Fitzgerald's The Great Gatsby,32911,The Greatest Man Who Ever Lived: Secrets for Unparalleled Success and Unshakable Happiness from the Life of Jesus,Steven K. Scott,,,3,0.20833333333333334,0
+Q38,F. Scott Fitzgerald's The Great Gatsby,43170,The Great Brain Is Back,"John D. Fitzgerald, Diane deGroat (Illustrator)",,,4,0.20833333333333334,0
+Q38,F. Scott Fitzgerald's The Great Gatsby,2491,All Creatures Great and Small / All Things Bright and Beautiful,James Herriot,,,5,0.20833333333333334,0
+Q39,novel by F. Scott Fitzgerald,23162,"F. Scott Fitzgerald: The Great Gatsby: Essays, Articles, Reviews",Nicolas Tredell (Editor),1,0.6786983013153076,1,0.5833333333333334,2
+Q39,novel by F. Scott Fitzgerald,7673,The Short Stories,"F. Scott Fitzgerald, Matthew J. Bruccoli (Editor)",2,0.663951039,,,2
+Q39,novel by F. Scott Fitzgerald,1461,This Side of Paradise,F. Scott Fitzgerald,3,0.6321172118186951,,,2
+Q39,novel by F. Scott Fitzgerald,45327,Trimalchio,"F. Scott Fitzgerald, James L.W. West III (Editor)",4,0.6012778282165527,,,2
+Q39,novel by F. Scott Fitzgerald,11827,Spring Water,John Fitzgerald (Goodreads Author),5,0.5967649221420288,,,0
+Q39,novel by F. Scott Fitzgerald,10442,"Scott Pilgrim, Volume 5: Scott Pilgrim vs. the Universe","Bryan Lee O'Malley (Writer, Artist)",,,2,0.3333333333333333,0
+Q39,novel by F. Scott Fitzgerald,17677,Am I Not a Man?: The Dred Scott Story,Mark L. Shurtleff,,,3,0.3333333333333333,0
+Q39,novel by F. Scott Fitzgerald,37242,Rachel's Tears: The Spiritual Journey of Columbine Martyr Rachel Scott,"Beth Nimmo, Darrell Scott, Steve Rabey (Contributor)",,,4,0.3333333333333333,0
+Q39,novel by F. Scott Fitzgerald,15868,"Scott Pilgrim, Volume 3: Scott Pilgrim & The Infinite Sadness","Bryan Lee O'Malley (Writer, Artist)",,,5,0.3333333333333333,0
+Q40,story of Jay Gatsby and Daisy Buchanan,27,The Great Gatsby,"F. Scott Fitzgerald, Francis Scott Fitzgerald",1,0.6710811257362366,1,0.2916666666666667,2
+Q40,story of Jay Gatsby and Daisy Buchanan,23162,"F. Scott Fitzgerald: The Great Gatsby: Essays, Articles, Reviews",Nicolas Tredell (Editor),2,0.6229724884033203,4,0.16666666666666666,2
+Q40,story of Jay Gatsby and Daisy Buchanan,36152,The Pregnancy Project,"GaRodriguez, Jenna Glatzer (Goodreads Author) (Contributor)",3,0.5638783574104309,,,0
+Q40,story of Jay Gatsby and Daisy Buchanan,45327,Trimalchio,"F. Scott Fitzgerald, James L.W. West III (Editor)",4,0.5249828100204468,,,2
+Q40,story of Jay Gatsby and Daisy Buchanan,38254,The Christmas Wedding,"James Patterson (Goodreads Author), Richard DiLallo",5,0.49528515338897705,,,0
+Q40,story of Jay Gatsby and Daisy Buchanan,2087,Daisy Jones & The Six,Taylor Jenkins Reid (Goodreads Author),,,2,0.16666666666666666,0
+Q40,story of Jay Gatsby and Daisy Buchanan,20059,Daisy Chain,Mark Montgomery (Goodreads Author),,,3,0.16666666666666666,0
+Q40,story of Jay Gatsby and Daisy Buchanan,37542,Danielle the Daisy Fairy,"Daisy Meadows, Georgie Ripper (Illustrator)",,,5,0.16666666666666666,0
+Q41,the American Dream,35404,In Dreams Begin Responsibilities and Other Stories,"Delmore Schwartz, James Atlas (Editor)",1,0.5405257940292358,,,0
+Q41,the American Dream,17395,The Sweetest Dream,Doris Lessing,2,0.5183757543563843,,,0
+Q41,the American Dream,43211,A Dollar And A Dream,"Carl Weber (Goodreads Author), Angel M. Hunter, Dwayne S. Joseph, Angel Hunter, La Jill Hunter",3,0.5148159861564636,,,0
+Q41,the American Dream,43195,A Cure for Dreams,Kaye Gibbons,4,0.512519121,,,0
+Q41,the American Dream,37647,An American Dream,Norman Mailer,5,0.5066220164299011,1,0.8333333333333334,1
+Q41,the American Dream,31112,Martin Dressler: The Tale of an American Dreamer,Steven Millhauser,,,2,0.8333333333333334,1
+Q41,the American Dream,17884,Songs of the Doomed: More Notes on the Death of the American Dream,Hunter S. Thompson,,,3,0.75,1
+Q41,the American Dream,2677,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,,,4,0.75,1
+Q41,the American Dream,49860,The Boys from Little Mexico: A Season Chasing the American Dream,Steve Wilson,,,5,0.6666666666666666,1
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,25258,Jazz in Search of Itself,Larry Kart,1,0.5986393094062805,,,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,26316,Billionaire Romance: Music in His soul,Amerine Graham (Goodreads Author),2,0.5170797109603882,,,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,47811,The Curious Case of Benjamin Button and Other Jazz Age Stories,"F. Scott Fitzgerald, Patrick O'Donnell (Noted by)",3,0.5079792737960815,,,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,24500,"Romance Box Set:Billionaire Romance: Feel The Music: Books 1-3, Music in his Bones, Soul and Heart",Amerine Graham (Goodreads Author),4,0.49788159132003784,,,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,50447,The History of Jazz,Ted Gioia,5,0.4904673099517822,,,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,877,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,,,1,0.2857142857142857,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,10132,"Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal",Ben Macintyre,,,2,0.23809523809523808,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,2345,The V Girl: A Coming Of Age Story,Mya Robarts,,,3,0.21428571428571427,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,5385,Marriage by Law,N.K. Pockett (Goodreads Author),,,4,0.21428571428571427,0
+Q42,mysterious millionaire pursuing a lost love in the Jazz Age,7118,The Poisoner's Handbook: Murder and the Birth of Forensic Medicine in Jazz Age New York,Deborah Blum,,,5,0.21428571428571427,0
+Q43,To Kill a Mockingbird,47121,Harper Lee's To Kill a Mockingbird,"Harold Bloom (Editor), Harper Lee",1,0.6766629219055176,2,0.6666666666666666,2
+Q43,To Kill a Mockingbird,50068,Mockingbird Songs,R.J. Ellory,2,0.6121026277542114,,,0
+Q43,To Kill a Mockingbird,17957,Saturdays Are Gold,Pierre Van Rooyen (Goodreads Author),3,0.5992536544799805,,,0
+Q43,To Kill a Mockingbird,2,To Kill a Mockingbird,Harper Lee,4,0.5965640544891357,1,0.6666666666666666,2
+Q43,To Kill a Mockingbird,12996,Mockingbird,Walter Tevis,5,0.5761939287185669,,,0
+Q43,To Kill a Mockingbird,24667,Kill Creek,Scott Thomas,,,3,0.3333333333333333,0
+Q43,To Kill a Mockingbird,32872,A Rage to Kill and Other True Cases,Ann Rule,,,4,0.3333333333333333,0
+Q43,To Kill a Mockingbird,28796,The Ice Man: Confessions of a Mafia Contract Killer,Philip Carlo,,,5,0.3333333333333333,0
+Q44,Harper Lee's To Kill a Mockingbird,47121,Harper Lee's To Kill a Mockingbird,"Harold Bloom (Editor), Harper Lee",1,0.8134618997573853,1,0.6666666666666666,2
+Q44,Harper Lee's To Kill a Mockingbird,2,To Kill a Mockingbird,Harper Lee,2,0.6670976281166077,2,0.4166666666666667,2
+Q44,Harper Lee's To Kill a Mockingbird,2743,Go Set a Watchman,Harper Lee,3,0.6146122813224792,,,1
+Q44,Harper Lee's To Kill a Mockingbird,17957,Saturdays Are Gold,Pierre Van Rooyen (Goodreads Author),4,0.5958333611488342,,,1
+Q44,Harper Lee's To Kill a Mockingbird,50068,Mockingbird Songs,R.J. Ellory,5,0.5552738904953003,,,0
+Q44,Harper Lee's To Kill a Mockingbird,45908,American Rose: A Nation Laid Bare: The Life and Times of Gypsy Rose Lee,Karen Abbott (Goodreads Author),,,3,0.20833333333333334,0
+Q44,Harper Lee's To Kill a Mockingbird,25542,Killing Kennedy: The End of Camelot,"Bill O'Reilly (Goodreads Author), Martin Dugard",,,4,0.20833333333333334,0
+Q44,Harper Lee's To Kill a Mockingbird,22440,Mastering Mountain Bike Skills,"Brian Lopes, Lee McCormack",,,5,0.20833333333333334,0
+Q45,novel by Harper Lee,47121,Harper Lee's To Kill a Mockingbird,"Harold Bloom (Editor), Harper Lee",1,0.6976017355918884,1,0.6666666666666666,2
+Q45,novel by Harper Lee,2,To Kill a Mockingbird,Harper Lee,2,0.5677393674850464,,,2
+Q45,novel by Harper Lee,2743,Go Set a Watchman,Harper Lee,3,0.5513875484466553,,,2
+Q45,novel by Harper Lee,95,The Notebook,Nicholas Sparks (Goodreads Author),4,0.5326114892959595,,,0
+Q45,novel by Harper Lee,3438,Black Lies,Alessandra Torre (Goodreads Author),5,0.5212465524673462,,,0
+Q45,novel by Harper Lee,46116,Lee's Lieutenants: A Study In Command,Douglas Southall Freeman,,,2,0.3333333333333333,0
+Q45,novel by Harper Lee,41040,Och natten viskade Annabel Lee,Bruno K. Öijer,,,3,0.3333333333333333,0
+Q45,novel by Harper Lee,18551,With Lee in Virginia,G.A. Henty,,,4,0.3333333333333333,0
+Q45,novel by Harper Lee,24767,Searching for Sylvie Lee,Jean Kwok (Goodreads Author),,,5,0.3333333333333333,0
+Q46,lawyer defending a black man in the American South,19296,There once was a Little England: A Story about Man's Obsession with 'Colour and Class',Enrico Downer,1,0.5807932615280151,,,1
+Q46,lawyer defending a black man in the American South,2182,The Lincoln Lawyer,Michael Connelly (Goodreads Author),2,0.5023704171180725,,,1
+Q46,lawyer defending a black man in the American South,48618,Murder in Mississippi,John Safran,3,0.47281983494758606,,,1
+Q46,lawyer defending a black man in the American South,24110,Becoming Justice Blackmun: Harry Blackmun's Supreme Court Journey,Linda Greenhouse,4,0.44915157556533813,,,1
+Q46,lawyer defending a black man in the American South,7821,A Man in Full,Tom Wolfe,5,0.44790032505989075,1,0.3055555555555556,1
+Q46,lawyer defending a black man in the American South,48069,A Taste of Power: A Black Woman's Story,Elaine Brown,,,2,0.3055555555555556,0
+Q46,lawyer defending a black man in the American South,1043,The Color of Water: A Black Man's Tribute to His White Mother,James McBride (Goodreads Author),,,3,0.2777777777777778,0
+Q46,lawyer defending a black man in the American South,1237,A Good Man is Hard to Find and Other Stories,Flannery O'Connor,,,4,0.2777777777777778,0
+Q46,lawyer defending a black man in the American South,4947,"Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History",S.C. Gwynne,,,5,0.2777777777777778,0
+Q47,Atticus Finch,5500,Before Women Had Wings,Connie May Fowler (Goodreads Author),1,0.5264836549758911,,,0
+Q47,Atticus Finch,19901,Finch,Jeff VanderMeer (Goodreads Author),2,0.510177493,2,0.3333333333333333,0
+Q47,Atticus Finch,33508,Bluebird,Lindsey Yankey,3,0.5070356130599976,,,0
+Q47,Atticus Finch,17646,The Bear in the Attic,Patrick F. McManus,4,0.5007309913635254,,,0
+Q47,Atticus Finch,13463,The Bird's Nest,Shirley Jackson,5,0.48499226570129395,,,0
+Q47,Atticus Finch,35632,Atticus,Ron Hansen,,,1,0.3333333333333333,0
+Q47,Atticus Finch,1343,Archibald Finch and the Lost Witches (Archibald Finch #1),"Michel Guyon (Goodreads Author), Zina Kostich (Illustrator)",,,3,0.3333333333333333,0
+Q47,Atticus Finch,43752,Atticus Claw Breaks the Law,"Jennifer Gray, Mark Ecob (Illustrator)",,,4,0.3333333333333333,0
+Q47,Atticus Finch,2743,Go Set a Watchman,Harper Lee,,,5,0.16666666666666666,1
+Q48,coming of age story confronting racial injustice,19317,overcoming white privilege: as written by a black man,a.d. Barnes,1,0.5808731913566589,,,1
+Q48,coming of age story confronting racial injustice,40911,Killing Rage: Ending Racism,Bell Hooks,2,0.5760296583175659,,,1
+Q48,coming of age story confronting racial injustice,34965,Race Matters,Cornel West,3,0.56209451,,,1
+Q48,coming of age story confronting racial injustice,790,The Hate U Give,Angie Thomas (Goodreads Author),4,0.5549931526184082,,,1
+Q48,coming of age story confronting racial injustice,48493,Faces at the Bottom of the Well: The Permanence of Racism,Derrick A. Bell,5,0.5533261299133301,,,1
+Q48,coming of age story confronting racial injustice,2345,The V Girl: A Coming Of Age Story,Mya Robarts,,,1,0.4,0
+Q48,coming of age story confronting racial injustice,34235,Teenage Rewrite,Brandon Williams (Goodreads Author),,,2,0.3,0
+Q48,coming of age story confronting racial injustice,35013,Going Vintage,Lindsey Leavitt (Goodreads Author),,,3,0.3,0
+Q48,coming of age story confronting racial injustice,2797,The Age of Miracles,Karen Thompson Walker (Goodreads Author),,,4,0.3,0
+Q48,coming of age story confronting racial injustice,10058,Coming Home,Rosamunde Pilcher,,,5,0.3,0
+Q49,A Study in Scarlet,22289,Scarlet: Chapters 1-5,Marissa Meyer (Goodreads Author),1,0.5864930152893066,,,0
+Q49,A Study in Scarlet,38316,Three Adventures Of The Scarlet Pimpernel,Emmuska Orczy,2,0.5729554891586304,,,0
+Q49,A Study in Scarlet,4965,Scarlet,A.C. Gaughen (Goodreads Author),3,0.5727565884590149,,,0
+Q49,A Study in Scarlet,7334,Anew,Chelsea Fine (Goodreads Author),4,0.5696552991867065,,,0
+Q49,A Study in Scarlet,19425,Scarlet Beginnings,Jinni James (Goodreads Author),5,0.56784749,,,0
+Q49,A Study in Scarlet,19225,A Study in Scarlet & The Sign of the Four,"Arthur Conan Doyle, David Stuart Davies (Goodreads Author) (Introduction)",,,1,0.6666666666666666,2
+Q49,A Study in Scarlet,937,A Study in Scarlet,Arthur Conan Doyle,,,2,0.6666666666666666,2
+Q49,A Study in Scarlet,14461,The HarperCollins Study Bible: Fully Revised & Updated,"Anonymous, Wayne A. Meeks (Contributor), Harold W. Attridge, Jouette M. Bassler (Contributor), Society Of Biblical Literature",,,3,0.3333333333333333,0
+Q49,A Study in Scarlet,128,The Scarlet Letter,"Nathaniel Hawthorne, Thomas E. Connolly (Annotations), Nina Baym (Introduction)",,,4,0.3333333333333333,0
+Q49,A Study in Scarlet,8371,Call Of The Lost Ages: A Study Of The Indus Valley Script,Subhajit Ganguly (Goodreads Author),,,5,0.3333333333333333,0
+Q50,Sherlock Holmes first novel,45545,"The Complete Stories of Sherlock Holmes, Volume 1","Arthur Conan Doyle, Charlton Griffin (Narrator)",1,0.7340809106826782,,,2
+Q50,Sherlock Holmes first novel,49809,"Sherlock Holmes: The Complete Novels and Stories, Volume II","Arthur Conan Doyle, Loren D. Estleman (Introduction)",2,0.6978887915611267,,,2
+Q50,Sherlock Holmes first novel,2683,"Sherlock Holmes: The Complete Novels and Stories, Volume I",Arthur Conan Doyle,3,0.67858994,2,0.5,2
+Q50,Sherlock Holmes first novel,937,A Study in Scarlet,Arthur Conan Doyle,4,0.6705583930015564,,,2
+Q50,Sherlock Holmes first novel,29139,Classic Sherlock Holmes,Arthur Conan Doyle,5,0.6650775671005249,,,2
+Q50,Sherlock Holmes first novel,66,The Adventures of Sherlock Holmes,Arthur Conan Doyle,,,1,0.5,1
+Q50,Sherlock Holmes first novel,36386,De complete avonturen van Sherlock Holmes: deel 1,"Arthur Conan Doyle, Mariëlla Snel (Translator)",,,3,0.5,2
+Q50,Sherlock Holmes first novel,38361,Sherlock Holmes and the Adventure of the Six Napoleons,"Murray Shaw (Illustrations), Sophie Rohrbach (Illustrator), Arthur Conan Doyle",,,4,0.5,2
+Q50,Sherlock Holmes first novel,40170,The Adventure of the Solitary Cyclist (Sherlock Holmes),"Arthur Conan Doyle, Edward Raleigh (Narrator)",,,5,0.5,1
+Q51,detective novel by Arthur Conan Doyle,49809,"Sherlock Holmes: The Complete Novels and Stories, Volume II","Arthur Conan Doyle, Loren D. Estleman (Introduction)",1,0.6808580160140991,,,2
+Q51,detective novel by Arthur Conan Doyle,4830,The Case-Book of Sherlock Holmes,Arthur Conan Doyle,2,0.6327027082443237,,,2
+Q51,detective novel by Arthur Conan Doyle,45545,"The Complete Stories of Sherlock Holmes, Volume 1","Arthur Conan Doyle, Charlton Griffin (Narrator)",3,0.6324794888496399,,,2
+Q51,detective novel by Arthur Conan Doyle,27275,The Further Adventures of Sherlock Holmes: After Sir Arthur Conan Doyle (Classic Crime),"Richard Lancelyn Green (Editor), Ronald Knox, Julian Symons, F.P. Cillié, D.O. Smith, Arthur Whitaker, Vincent Starrett, Stuart Palmer, more…",4,0.6273698806762695,2,0.5,2
+Q51,detective novel by Arthur Conan Doyle,23830,The Adventures of Sherlock Holmes and Other Stories,Arthur Conan Doyle,5,0.6236600875854492,,,2
+Q51,detective novel by Arthur Conan Doyle,43841,Complete Works of Arthur Conan Doyle,Arthur Conan Doyle,,,1,0.625,2
+Q51,detective novel by Arthur Conan Doyle,14623,The Further Adventures of Sherlock Holmes: The Veiled Detective,David Stuart Davies (Goodreads Author),,,3,0.375,2
+Q51,detective novel by Arthur Conan Doyle,43742,Detective,Arthur Hailey,,,4,0.2916666666666667,0
+Q51,detective novel by Arthur Conan Doyle,20624,Magic and the Shinigami Detective,Honor Raconteur (Goodreads Author),,,5,0.25,0
+Q52,first appearance of Sherlock Holmes and Watson,45545,"The Complete Stories of Sherlock Holmes, Volume 1","Arthur Conan Doyle, Charlton Griffin (Narrator)",1,0.5926972031593323,,,2
+Q52,first appearance of Sherlock Holmes and Watson,2683,"Sherlock Holmes: The Complete Novels and Stories, Volume I",Arthur Conan Doyle,2,0.5924012064933777,1,0.36666666666666664,2
+Q52,first appearance of Sherlock Holmes and Watson,937,A Study in Scarlet,Arthur Conan Doyle,3,0.5883076190948486,,,2
+Q52,first appearance of Sherlock Holmes and Watson,25911,A Study in Sherlock,"Laurie R. King (Goodreads Author), Leslie S. Klinger (Goodreads Author)",4,0.5877177715301514,,,1
+Q52,first appearance of Sherlock Holmes and Watson,14643,"The Adventure of Charles Augustus Milverton (The Return of Sherlock Holmes, #7)","Arthur Conan Doyle, Edward Raleigh (Narrator)",5,0.5845692157745361,,,1
+Q52,first appearance of Sherlock Holmes and Watson,36386,De complete avonturen van Sherlock Holmes: deel 1,"Arthur Conan Doyle, Mariëlla Snel (Translator)",,,2,0.36666666666666664,2
+Q52,first appearance of Sherlock Holmes and Watson,8923,"The Complete Sherlock Holmes, Volume I","Arthur Conan Doyle, Kyle Freeman (Introduction)",,,3,0.36666666666666664,1
+Q52,first appearance of Sherlock Holmes and Watson,49809,"Sherlock Holmes: The Complete Novels and Stories, Volume II","Arthur Conan Doyle, Loren D. Estleman (Introduction)",,,4,0.36666666666666664,2
+Q52,first appearance of Sherlock Holmes and Watson,26035,"Sherlock Holmes, Tome 1",Arthur Conan Doyle,,,5,0.36666666666666664,2
+Q53,consulting detective at Baker Street,40478,Something from the Nightside,Simon R. Green,1,0.4897129535675049,,,0
+Q53,consulting detective at Baker Street,5856,The Case of the Displaced Detective: The Arrival,Stephanie Osborn (Goodreads Author),2,0.480379581,,,0
+Q53,consulting detective at Baker Street,25775,The Various Haunts of Men,Susan Hill,3,0.47120338678359985,,,0
+Q53,consulting detective at Baker Street,27546,The Case of the Missing Servant,Tarquin Hall (Goodreads Author),4,0.4711586833000183,,,0
+Q53,consulting detective at Baker Street,16731,Parker Pyne Investigates,Agatha Christie,5,0.46971815824508667,,,0
+Q53,consulting detective at Baker Street,27539,Basil of Baker Street,"Eve Titus, Paul Galdone (Illustrator)",,,1,0.2916666666666667,2
+Q53,consulting detective at Baker Street,24868,Little Beach Street Bakery,Jenny Colgan,,,2,0.25,0
+Q53,consulting detective at Baker Street,692,The No. 1 Ladies' Detective Agency,Alexander McCall Smith (Goodreads Author),,,3,0.25,0
+Q53,consulting detective at Baker Street,972,Dirk Gently's Holistic Detective Agency,Douglas Adams,,,4,0.25,0
+Q53,consulting detective at Baker Street,43742,Detective,Arthur Hailey,,,5,0.25,0
+Q54,brilliant detective solves a mysterious murder through deduction,40749,The Interpretation of Murder,Jed Rubenfeld,1,0.6336312890052795,,,2
+Q54,brilliant detective solves a mysterious murder through deduction,41994,Unnatural Death,Dorothy L. Sayers,2,0.6309789419174194,,,2
+Q54,brilliant detective solves a mysterious murder through deduction,8133,Police,"Jo Nesbø (Goodreads Author), Don Bartlett (Translator)",3,0.6220325231552124,,,2
+Q54,brilliant detective solves a mysterious murder through deduction,6306,Death Note: Another Note - The Los Angeles BB Murder Cases,"NisiOisiN, Andrew Cunningham (Translator)",4,0.6194907426834106,,,2
+Q54,brilliant detective solves a mysterious murder through deduction,29610,The 11:05 Murders,Brian O'Hare (Goodreads Author),5,0.6182093620300293,,,2
+Q54,brilliant detective solves a mysterious murder through deduction,43556,A Spoonful of Murder,Robin Stevens (Goodreads Author),,,1,0.2777777777777778,2
+Q54,brilliant detective solves a mysterious murder through deduction,7173,The Murder on the Links,"Agatha Christie, Phoebe Judge (Narrator)",,,2,0.25,2
+Q54,brilliant detective solves a mysterious murder through deduction,7858,A Murder Is Announced,Agatha Christie,,,3,0.25,2
+Q54,brilliant detective solves a mysterious murder through deduction,11934,Well-Schooled in Murder,Elizabeth George (Goodreads Author),,,4,0.25,2
+Q54,brilliant detective solves a mysterious murder through deduction,15625,Murder in Mesopotamia,Agatha Christie,,,5,0.25,2
+Q55,The Art of War,43989,Summary of The War of Art: by Steven Pressfield | Includes Analysis,NOT A BOOK,1,0.635377049,,,0
+Q55,The Art of War,25739,"My War Gone By, I Miss It So",Anthony Loyd,2,0.6281257271766663,,,0
+Q55,The Art of War,604,The Art of War,"Sun Tzu, Thomas Cleary (Translator), Pulat Otkan (Translator), Giray Fidan (Translator)",3,0.6028446555137634,2,0.8333333333333334,2
+Q55,The Art of War,15230,The 33 Strategies of War,"Robert Greene (Goodreads Author), Joost Elffers",4,0.5986080169677734,,,1
+Q55,The Art of War,28038,War Is a Force That Gives Us Meaning,Chris Hedges,5,0.5788943767547607,,,0
+Q55,The Art of War,48794,Dr. Seuss Goes to War: The World War II Editorial Cartoons of Theodor Seuss Geisel,"Richard H. Minear, Art Spiegelman (Introduction), Dr. Seuss",,,1,1,0
+Q55,The Art of War,1114,The Heart of Aleppo: A Story of the Syrian Civil War,Ammar Habib (Goodreads Author),,,3,0.8333333333333334,0
+Q55,The Art of War,17645,Last Journey: A Father and Son in Wartime,"Darrell Griffin Sr., Darrell ""Skip"" Griffin Jr.",,,4,0.8333333333333334,0
+Q55,The Art of War,18055,When Heaven and Earth Changed Places: A Vietnamese Woman's Journey from War to Peace,"Le Ly Hayslip, Jay Wurts",,,5,0.8333333333333334,0
+Q56,Sun Tzu's The Art of War,604,The Art of War,"Sun Tzu, Thomas Cleary (Translator), Pulat Otkan (Translator), Giray Fidan (Translator)",1,0.7689177393913269,1,0.5,2
+Q56,Sun Tzu's The Art of War,15230,The 33 Strategies of War,"Robert Greene (Goodreads Author), Joost Elffers",2,0.6055761575698853,,,2
+Q56,Sun Tzu's The Art of War,46812,"The Rising Sun: The Decline & Fall of the Japanese Empire, 1936-45",John Toland,3,0.51505208,,,0
+Q56,Sun Tzu's The Art of War,21106,Wen-Tzu,"Lao Tzu, Thomas Cleary (Translator)",4,0.4708564877510071,,,1
+Q56,Sun Tzu's The Art of War,23356,The Man-Kzin Wars,"Larry Niven, Dean Ing, Poul Anderson",5,0.46824273467063904,,,0
+Q56,Sun Tzu's The Art of War,48794,Dr. Seuss Goes to War: The World War II Editorial Cartoons of Theodor Seuss Geisel,"Richard H. Minear, Art Spiegelman (Introduction), Dr. Seuss",,,2,0.5,0
+Q56,Sun Tzu's The Art of War,44419,Killing the Rising Sun: How America Vanquished World War II Japan,"Bill O'Reilly (Goodreads Author), Martin Dugard",,,3,0.4583333333333333,0
+Q56,Sun Tzu's The Art of War,1114,The Heart of Aleppo: A Story of the Syrian Civil War,Ammar Habib (Goodreads Author),,,4,0.4166666666666667,0
+Q56,Sun Tzu's The Art of War,17645,Last Journey: A Father and Son in Wartime,"Darrell Griffin Sr., Darrell ""Skip"" Griffin Jr.",,,5,0.4166666666666667,0
+Q57,ancient Chinese military treatise,21106,Wen-Tzu,"Lao Tzu, Thomas Cleary (Translator)",1,0.5378732681274414,,,1
+Q57,ancient Chinese military treatise,27799,"Romance of the Three Kingdoms, Vol. 1 (chapter 1-30)","Luo Guanzhong, C.H. Brewitt Taylor (Translator)",2,0.5305123329162598,,,2
+Q57,ancient Chinese military treatise,45827,The Great Learning,Confucius,3,0.5125916600227356,,,1
+Q57,ancient Chinese military treatise,604,The Art of War,"Sun Tzu, Thomas Cleary (Translator), Pulat Otkan (Translator), Giray Fidan (Translator)",4,0.5066919326782227,,,2
+Q57,ancient Chinese military treatise,16374,Chuang Tzu: Basic Writings,"Zhuangzi, Burton Watson",5,0.49984657764434814,,,0
+Q57,ancient Chinese military treatise,28204,The Ten Thousand: A Novel of Ancient Greece,Michael Curtis Ford,,,1,0.2916666666666667,0
+Q57,ancient Chinese military treatise,22591,An Ancient Peace,Tanya Huff,,,2,0.2916666666666667,0
+Q57,ancient Chinese military treatise,17370,"Sagwa, the Chinese Siamese Cat","Amy Tan (Goodreads Author), Gretchen Schields (Illustrator)",,,3,0.25,0
+Q57,ancient Chinese military treatise,43023,On A Chinese Screen,W. Somerset Maugham,,,4,0.25,0
+Q57,ancient Chinese military treatise,43288,Roots of the Western Tradition: A Short History of the Ancient World,C. Warren Hollister,,,5,0.25,0
+Q58,book on military strategy and tactics,36190,Strategy (Second Revised Edition),B.H. Liddell Hart,1,0.7708172798156738,3,0.3888888888888889,2
+Q58,book on military strategy and tactics,4161,A Book of Five Rings: The Classic Guide to Strategy,"Miyamoto Musashi, Victor Harris (Translator)",2,0.627186656,2,0.3888888888888889,2
+Q58,book on military strategy and tactics,15230,The 33 Strategies of War,"Robert Greene (Goodreads Author), Joost Elffers",3,0.5977662801742554,,,2
+Q58,book on military strategy and tactics,28218,Infantry Attacks,Erwin Rommel,4,0.5877439975738525,,,2
+Q58,book on military strategy and tactics,38573,The Rules of the Game: Jutland and British Naval Command,"Gilbert Andrew Hugh Gordon, John Woodward (Foreword by)",5,0.5736494064331055,,,2
+Q58,book on military strategy and tactics,13426,"Left-Wing Communism, an Infantile Disorder: A Popular Essay in Marxian Strategy and Tactics",Vladimir Lenin,,,1,0.4444444444444444,0
+Q58,book on military strategy and tactics,20870,On Grand Strategy,John Lewis Gaddis,,,4,0.3333333333333333,1
+Q58,book on military strategy and tactics,29126,Warrior Police: Rolling with America's Military Police in the World's Trouble Spots,"Gordon Cucullu, Chris Fontana",,,5,0.3333333333333333,0
+Q59,know your enemy and know yourself,39525,"My enemy, my self",Yoram Binur,1,0.5063589811325073,,,1
+Q59,know your enemy and know yourself,18205,Our Enemy the State,"Albert Jay Nock, Frank Chodorov (Preface), Butler Shaffer (Introduction)",2,0.46481552720069885,,,0
+Q59,know your enemy and know yourself,26781,Enemies Within : An air force thriller,Wing Commander M K Devidasan (Goodreads Author),3,0.4456612765789032,,,0
+Q59,know your enemy and know yourself,6010,Among the Enemy,Margaret Peterson Haddix,4,0.42117059230804443,,,0
+Q59,know your enemy and know yourself,22269,How To Win Friends And Influence People,Megan Coulter (Goodreads Author),5,0.41871267557144165,,,1
+Q59,know your enemy and know yourself,38876,The Baby Book: Everything You Need to Know About Your Baby from Birth to Age Two,"William Sears, Martha Sears, Robert W. Sears, James M. Sears",,,1,0.43333333333333335,0
+Q59,know your enemy and know yourself,32928,"Your Rights, What Employers Do Not Want You to Know",Carol Denise Mitchell (Goodreads Author),,,2,0.36666666666666664,0
+Q59,know your enemy and know yourself,42392,"Homemade Money: Starting Smart: How to Turn Your Talents, Experience, and Know-How Into a Profitable Homebased Business Thats Perfect for You!",Barbara Brabec (Goodreads Author),,,3,0.36666666666666664,0
+Q59,know your enemy and know yourself,48258,An Enemy at Green Knowe,"Lucy M. Boston, Peter Boston",,,4,0.36666666666666664,0
+Q59,know your enemy and know yourself,27258,Get Known Before the Book Deal: Use Your Personal Strengths to Grow an Author Platform,Christina Katz (Goodreads Author),,,5,0.36666666666666664,0
+Q60,strategic principles for achieving victory with minimal conflict,15230,The 33 Strategies of War,"Robert Greene (Goodreads Author), Joost Elffers",1,0.5663209557533264,,,2
+Q60,strategic principles for achieving victory with minimal conflict,36190,Strategy (Second Revised Edition),B.H. Liddell Hart,2,0.52690959,,,2
+Q60,strategic principles for achieving victory with minimal conflict,45155,Winning Chess Strategies,Yasser Seirawan,3,0.4925253391265869,,,0
+Q60,strategic principles for achieving victory with minimal conflict,41615,Matchpoints,Kit Woolsey,4,0.484624982,,,0
+Q60,strategic principles for achieving victory with minimal conflict,9314,The Last Battle: The Classic History of the Battle for Berlin,Cornelius Ryan,5,0.48214393854141235,,,0
+Q60,strategic principles for achieving victory with minimal conflict,19751,From Victim To Victory Book Series: Level 1: Core Principles,Sascha Gorokhoff,,,1,0.2222222222222222,0
+Q60,strategic principles for achieving victory with minimal conflict,37560,Wired for Love: How Understanding Your Partner's Brain and Attachment Style Can Help You Defuse Conflict and Build a Secure Relationship,"Stan Tatkin, Harville Hendrix (Foreword)",,,2,0.1388888888888889,0
+Q60,strategic principles for achieving victory with minimal conflict,9774,The Gap Into Conflict: The Real Story,Stephen R. Donaldson,,,3,0.1388888888888889,0
+Q60,strategic principles for achieving victory with minimal conflict,23229,The Anatomy of Peace: Resolving the Heart of Conflict,The Arbinger Institute,,,4,0.1388888888888889,0
+Q60,strategic principles for achieving victory with minimal conflict,49117,Horse Soldiers: The Extraordinary Story of a Band of US Soldiers Who Rode to Victory in Afghanistan,Doug Stanton,,,5,0.1388888888888889,0

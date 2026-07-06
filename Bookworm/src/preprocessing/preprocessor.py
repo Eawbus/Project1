@@ -3,9 +3,7 @@ Preprocessor module for cleaning text data
 """
 import re
 import pandas as pd
-import numpy as np
 from typing import List, Union
-from pathlib import Path
 
 from src.configuration.config import config
 
@@ -65,12 +63,8 @@ class Preprocessor:
     def build_corpus_text(self, row: pd.Series) -> str:
         """
         Build the full text representation for a corpus document
-        
-        Args:
-            row: DataFrame row containing book data
-            
-        Returns:
-            Combined text string for embedding
+        Args: row: DataFrame row containing book data 
+        Returns: Combined text string for embedding
         """
         title = row.get("title", "")
         description = row.get("description", "")
@@ -95,12 +89,8 @@ class Preprocessor:
     def clean_query(self, query: str) -> str:
         """
         Simplified cleaning for queries
-        
-        Args:
-            query: Raw query string
-            
-        Returns:
-            Cleaned query string
+        Args: query: Raw query string
+        Returns: Cleaned query string
         """
         if not query or pd.isna(query):
             return ""
@@ -109,12 +99,8 @@ class Preprocessor:
     def preprocess_corpus(self, df: pd.DataFrame) -> pd.DataFrame:
         """
         Full preprocessing pipeline for corpus data
-        
-        Args:
-            df: Raw DataFrame
-            
-        Returns:
-            Preprocessed DataFrame
+        Args: df: Raw DataFrame
+        Returns: Preprocessed DataFrame - .csv
         """
         print(f"Original shape: {df.shape}")
         
@@ -168,23 +154,15 @@ class Preprocessor:
     def preprocess_query(self, query: str) -> str:
         """
         Preprocess a single query
-        
-        Args:
-            query: Raw query string
-            
-        Returns:
-            Preprocessed query string
+        Args: query: Raw query string
+        Returns: Preprocessed query string
         """
         return self.clean_query(query)
     
     def preprocess_queries(self, queries: List[str]) -> List[str]:
         """
         Preprocess multiple queries
-        
-        Args:
-            queries: List of query strings
-            
-        Returns:
-            List of preprocessed query strings
+        Args: queries: List of query strings
+        Returns: List of preprocessed query strings
         """
         return [self.preprocess_query(q) for q in queries]

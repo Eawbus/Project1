@@ -1,5 +1,5 @@
 """
-Keyword-based retrieval baseline for comparison against semantic search.
+Keyword-based retrieval for comparison against semantic search.
 """
 
 import pandas as pd
@@ -12,13 +12,8 @@ from src.configuration.config import config
 class FilterSearch:
     """
     Keyword-based search baseline.
-
     Uses:
     - Inverted index for candidate retrieval
-    - Weighted scoring:
-        Title match       = 3 points
-        Genre match       = 2 points
-        Description match = 1 point
     """
 
     def __init__(self, config=config):
@@ -189,16 +184,20 @@ class FilterSearch:
 
             score = 0
 
-            for word in query_words:
+            """
+            - Weighted scoring:
+            Title match       = 3 points
+            Description match = 1 point
+            Genre match       = 2 points
+            """
 
+            for word in query_words:
                 if word in title:
                     score += 3
-
-                if word in genres:
-                    score += 2
-
                 if word in description:
                     score += 1
+                if word in genres:
+                    score += 2
 
             if score > 0:
                 doc_scores[doc_idx] = score
