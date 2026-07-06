@@ -288,12 +288,9 @@ class Pipeline:
         print(f"{'='*60}")
         print(f"Semantic Search Time:   {comparison['semantic']['time']:.4f}s")
         print(f"Keyword Search Time:     {comparison['keyword']['time']:.4f}s")
-        print(f"Speed Difference:       {comparison['keyword']['time'] / comparison['semantic']['time']:.2f}x faster" 
-              if comparison['semantic']['time'] > 0 else "N/A")
         print(f"Average Semantic Score: {comparison['semantic']['avg_score']:.4f}")
         print(f"Average Keyword Score:   {comparison['keyword']['avg_score']:.4f}")
         print(f"Overlap:                {comparison['comparison']['overlap_count']} of {k} results")
-        print(f"Overlap Percentage:     {comparison['comparison']['overlap_percentage']:.1f}%")
         print(f"Semantic Only Results:  {comparison['comparison']['semantic_only']}")
         print(f"Keyword Only Results:    {comparison['comparison']['keyword_only']}")
         

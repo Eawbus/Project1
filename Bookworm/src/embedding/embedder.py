@@ -26,10 +26,8 @@ class Embedder:
     ):
 
         self.config = config
-
         self.model_name = model_name or self.config.MODEL_NAME
         self.model_path = model_path or self.config.MODEL_PATH
-
         self.batch_size = batch_size or self.config.BATCH_SIZE
         self.max_seq_length = (
             max_seq_length or self.config.MAX_SEQ_LENGTH
@@ -43,33 +41,26 @@ class Embedder:
         """
         Load the SentenceTransformer model.
         """
-
         print(f"Loading model: {self.model_name}")
 
         try:
-
             if self.model_path.exists():
-
                 self.model = SentenceTransformer(
                     str(self.model_path)
                 )
 
             else:
-
                 self.model = SentenceTransformer(
                     self.model_name
                 )
 
         except Exception as e:
-
             print(
                 f"Failed to load local model: {e}"
             )
-
             print(
                 f"Falling back to {self.model_name}"
             )
-
             self.model = SentenceTransformer(
                 self.model_name
             )

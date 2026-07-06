@@ -14,6 +14,7 @@ class Config:
    DATA_DIR: Path = BASE_DIR / "data"
    MODELS_DIR: Path = BASE_DIR / "models"
    SRC_DIR: Path = BASE_DIR / "src"
+   BENCHMARK_DIR: Path = BASE_DIR / "benchmarks"
     
    # Data paths
    RAW_DATA: Path = DATA_DIR / "raw" / "GoodReadsDataset.csv"
@@ -21,6 +22,8 @@ class Config:
    EMBEDDINGS_FILE: Path = DATA_DIR / "embeddings" / "embeddings.npy"
    INDEX_FILE: Path = DATA_DIR / "index" / "faiss.index"
    DOCUMENTS_FILE: Path = DATA_DIR / "index" / "documents.pkl"
+   BENCHMARK_QUERIES_CSV: Path = DATA_DIR / "benchmarks" / "benchmark_queries.csv"
+   BENCHMARK_RESULTS_CSV: Path = DATA_DIR / "benchmarks" / "relevance_judgments.csv"
     
    # Model settings
    MODEL_NAME: str = "all-MiniLM-L6-v2"
@@ -31,7 +34,7 @@ class Config:
    MAX_SEQ_LENGTH: int = 256
     
    # FAISS settings
-   FAISS_INDEX_TYPE: str = "Flat"  # "Flat", "IVF100", "HNSW32"
+   FAISS_INDEX_TYPE: str = "IVF100"  # "Flat", "IVF{n -> nlist}"
     
    # Column mapping for the dataset
    COLUMN_MAP: dict = None

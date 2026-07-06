@@ -1,0 +1,61 @@
+query_id,target_book,difficulty,query
+Q01,Harry Potter and the Philosopher's Stone,0,Harry Potter and the Philosopher's Stone
+Q02,Harry Potter and the Philosopher's Stone,1,Harry Potter
+Q03,Harry Potter and the Philosopher's Stone,2,J. K. Rowling fantasy novel
+Q04,Harry Potter and the Philosopher's Stone,3,young wizard named Harry Potter
+Q05,Harry Potter and the Philosopher's Stone,4,the boy who lived
+Q06,Harry Potter and the Philosopher's Stone,5,boy discovers he is a wizard and attends a magical school
+Q07,1984,0,1984
+Q08,1984,1,George Orwell's 1984
+Q09,1984,2,George Orwell dystopian novel
+Q10,1984,3,dystopian novel about totalitarian government
+Q11,1984,4,society under constant surveillance
+Q12,1984,5,political manipulation of truth and thought control
+Q13,Animal Farm,0,Animal Farm
+Q14,Animal Farm,1,George Orwell's Animal Farm
+Q15,Animal Farm,2,political allegory by George Orwell
+Q16,Animal Farm,3,novel about animals running a farm
+Q17,Animal Farm,4,all animals are equal but some are more equal than others
+Q18,Animal Farm,5,revolution against oppression that becomes a new tyranny
+Q19,The Wealth of Nations,0,The Wealth of Nations
+Q20,The Wealth of Nations,1,Adam Smith's The Wealth of Nations
+Q21,The Wealth of Nations,2,classic economics book by Adam Smith
+Q22,The Wealth of Nations,3,foundational work of modern economics
+Q23,The Wealth of Nations,4,invisible hand of the market
+Q24,The Wealth of Nations,5,book explaining how self-interest influences economic prosperity
+Q25,Romeo and Juliet,0,Romeo and Juliet
+Q26,Romeo and Juliet,1,Shakespeare's Romeo and Juliet
+Q27,Romeo and Juliet,2,tragedy by William Shakespeare
+Q28,Romeo and Juliet,3,play about two young lovers
+Q29,Romeo and Juliet,4,star-crossed lovers
+Q30,Romeo and Juliet,5,romantic tragedy between members of rival families
+Q31,The Bible,0,The Bible
+Q32,The Bible,1,Holy Bible
+Q33,The Bible,2,sacred scripture of Christianity
+Q34,The Bible,3,religious text containing the Old and New Testament
+Q35,The Bible,4,the word of God
+Q36,The Bible,5,collection of writings describing creation prophecy and the life of Jesus Christ
+Q37,The Great Gatsby,0,The Great Gatsby
+Q38,The Great Gatsby,1,F. Scott Fitzgerald's The Great Gatsby
+Q39,The Great Gatsby,2,novel by F. Scott Fitzgerald
+Q40,The Great Gatsby,3,story of Jay Gatsby and Daisy Buchanan
+Q41,The Great Gatsby,4,the American Dream
+Q42,The Great Gatsby,5,mysterious millionaire pursuing a lost love in the Jazz Age
+Q43,To Kill a Mockingbird,0,To Kill a Mockingbird
+Q44,To Kill a Mockingbird,1,Harper Lee's To Kill a Mockingbird
+Q45,To Kill a Mockingbird,2,novel by Harper Lee
+Q46,To Kill a Mockingbird,3,lawyer defending a black man in the American South
+Q47,To Kill a Mockingbird,4,Atticus Finch
+Q48,To Kill a Mockingbird,5,coming of age story confronting racial injustice
+Q49,Sherlock Holmes: A Study in Scarlet,0,A Study in Scarlet
+Q50,Sherlock Holmes: A Study in Scarlet,1,Sherlock Holmes first novel
+Q51,Sherlock Holmes: A Study in Scarlet,2,detective novel by Arthur Conan Doyle
+Q52,Sherlock Holmes: A Study in Scarlet,3,first appearance of Sherlock Holmes and Watson
+Q53,Sherlock Holmes: A Study in Scarlet,4,consulting detective at Baker Street
+Q54,Sherlock Holmes: A Study in Scarlet,5,brilliant detective solves a mysterious murder through deduction
+Q55,The Art of War,0,The Art of War
+Q56,The Art of War,1,Sun Tzu's The Art of War
+Q57,The Art of War,2,ancient Chinese military treatise
+Q58,The Art of War,3,book on military strategy and tactics
+Q59,The Art of War,4,know your enemy and know yourself
+Q60,The Art of War,5,strategic principles for achieving victory with minimal conflict
